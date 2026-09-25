@@ -1,0 +1,261 @@
+{
+  "dealership": "Mercedes Benz North Vancouver",
+  "generated_at": "2026-09-25T12:00:21",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "AMG GT53 4MATIC+ Coupe (4-door)2024 Mercedes-Benz",
+      "vin": "W1K7X6BB1RV003328",
+      "stock": "MB51600",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/539968f1fee5.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/amg-gt53/2024-mercedes-benz-amg-gt53-id39164015",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/amg-gt53/2024-mercedes-benz-amg-gt53-id39164015?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:21:26",
+      "odometer_km": 10140,
+      "condition": "used"
+    },
+    {
+      "name": "CLA250 4MATIC Coupe2025 Mercedes-Benz",
+      "vin": "W1K5J4HB0SN507914",
+      "stock": "MB51701",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/44570a82541f.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id38727135",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id38727135?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:21:41",
+      "odometer_km": 17062,
+      "condition": "used"
+    },
+    {
+      "name": "E450 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KLF6BB2TA240829",
+      "stock": "MB51301",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/462749c43bb2.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/e450/2026-mercedes-benz-e450-id39237548",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/e450/2026-mercedes-benz-e450-id39237548?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:21:55",
+      "odometer_km": 10219,
+      "condition": "used"
+    },
+    {
+      "name": "GLB250 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1N4M4HB8SW418866",
+      "stock": "MB51600",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/8362612b4365.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/glb250/2025-mercedes-benz-glb250-id39164013",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/glb250/2025-mercedes-benz-glb250-id39164013?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:22:12",
+      "odometer_km": 12231,
+      "condition": "used"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2024 Mercedes-Benz",
+      "vin": "W1NKM4HB3RF176103",
+      "stock": "2653004",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/7b5f60ef5e7e.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2024-mercedes-benz-glc300-id38915723",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2024-mercedes-benz-glc300-id38915723?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:22:28",
+      "odometer_km": 16800,
+      "condition": "used"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB7TF431777",
+      "stock": "MB51701",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/651830d6a1e3.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id38900797",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id38900797?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:22:43",
+      "odometer_km": 13260,
+      "condition": "used"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB3TF436443",
+      "stock": "2652551",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/69befaf8b5ec.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39098836",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39098836?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:22:58",
+      "odometer_km": 13002,
+      "condition": "used"
+    },
+    {
+      "name": "GLE350 4MATIC SUV2024 Mercedes-Benz",
+      "vin": "4JGFB4FB7RA993732",
+      "stock": "MB51300",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/2ff2f9bd7f3a.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2024-mercedes-benz-gle350-id39061179",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2024-mercedes-benz-gle350-id39061179?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:23:13",
+      "odometer_km": 63444,
+      "condition": "used"
+    },
+    {
+      "name": "GLE350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB4TB587232",
+      "stock": "2665192",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/dd7776fbeac7.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id38627785",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id38627785?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:23:28",
+      "odometer_km": 1690,
+      "condition": "used"
+    },
+    {
+      "name": "GLE450e 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "4JGFB4GB2SB285256",
+      "stock": "2652135",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/7cb13c538b64.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle450e/2025-mercedes-benz-gle450e-id38664505",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle450e/2025-mercedes-benz-gle450e-id38664505?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:23:44",
+      "odometer_km": 13549,
+      "condition": "used"
+    },
+    {
+      "name": "GLE450e 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4GB2TB527576",
+      "stock": "2652925",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/06a6ad1ddc44.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle450e/2026-mercedes-benz-gle450e-id38999926",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle450e/2026-mercedes-benz-gle450e-id38999926?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:23:59",
+      "odometer_km": 2400,
+      "condition": "used"
+    },
+    {
+      "name": "GLE53 4MATIC+ Coupe2024 Mercedes-Benz",
+      "vin": "4JGFD6BB7RB062962",
+      "stock": "MB52F00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/e090afc8b58d.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle53/2024-mercedes-benz-gle53-id39174613",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle53/2024-mercedes-benz-gle53-id39174613?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:24:14",
+      "odometer_km": 24000,
+      "condition": "used"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB8VF649035",
+      "stock": "2766162",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f7cae69a3f2e.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39012798?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39012798?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:57:18",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HBXVF647120",
+      "stock": "2765726",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d6fde11624a0.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39012800?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39012800?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:57:34",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB4VF653964",
+      "stock": "2766097",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f8b52590746b.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39012801?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39012801?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:57:49",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB9VF653501",
+      "stock": "2765881",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/68780b07e52b.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39018324?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39018324?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:58:04",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB6VF654516",
+      "stock": "2765882",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f64bfaff14de.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39034581?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39034581?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:58:20",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB8VF655019",
+      "stock": "2765882",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e959f4178e29.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109217?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109217?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:58:34",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB7VF654086",
+      "stock": "2765882",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/eab16cba969b.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109218?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109218?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:58:50",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB9VF657516",
+      "stock": "2765890",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/17013ba03d5f.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109219?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109219?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:59:06",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB4VF654913",
+      "stock": "2765881",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d5fcdb1a4691.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109220?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109220?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:59:19",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB9VF656866",
+      "stock": "2765893",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/cc9b7e682d99.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109221?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109221?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:59:35",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB9VF655160",
+      "stock": "2765882",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c5f1084155a6.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109222?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109222?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:59:49",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB5VF654855",
+      "stock": "2765882",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2115dff95d3d.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109224?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109224?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T12:00:05",
+      "condition": "new"
+    }
+  ]
+}
