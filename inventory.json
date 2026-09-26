@@ -1,6 +1,6 @@
 {
   "dealership": "Mercedes Benz North Vancouver",
-  "generated_at": "2026-09-25T12:00:21",
+  "generated_at": "2026-09-26T11:33:34",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -83,17 +83,6 @@
       "condition": "used"
     },
     {
-      "name": "GLE350 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFB4FB7RA993732",
-      "stock": "MB51300",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/2ff2f9bd7f3a.html",
-      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2024-mercedes-benz-gle350-id39061179",
-      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2024-mercedes-benz-gle350-id39061179?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T11:23:13",
-      "odometer_km": 63444,
-      "condition": "used"
-    },
-    {
       "name": "GLE350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB4TB587232",
       "stock": "2665192",
@@ -102,6 +91,17 @@
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id38627785?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T11:23:28",
       "odometer_km": 1690,
+      "condition": "used"
+    },
+    {
+      "name": "GLE450 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "4JGFB5KB3PA946710",
+      "stock": "2652550",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/39e3ebde3550.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id38605681",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id38605681?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T11:28:32",
+      "odometer_km": 97850,
       "condition": "used"
     },
     {
