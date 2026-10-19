@@ -1,6 +1,6 @@
 {
   "dealership": "Mercedes Benz North Vancouver",
-  "generated_at": "2026-10-18T20:54:44",
+  "generated_at": "2026-10-18T21:53:56",
   "vehicle_count": 2485,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12471,13 +12471,15 @@
       "province": "BC"
     },
     {
-      "name": "AMG GT 63 PRO Coupe2026 Mercedes-Benz",
-      "vin": "W1KRJ8JB0TF010019",
-      "stock": "2650484",
+      "name": "New Vehicles",
+      "vin": "W1NKJ4HB9VF655726",
+      "stock": "2765725",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/093f5630a23a.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2026-mercedes-benz-amg-gt-id37407903",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2026-mercedes-benz-amg-gt-id37407903?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:32:44",
+      "last_verified": "2026-10-18T21:52:06",
+      "price": 78760.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -12489,7 +12491,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/36a233c5a57c.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2026-mercedes-benz-amg-gt-id39034584",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2026-mercedes-benz-amg-gt-id39034584?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:33:01",
+      "last_verified": "2026-10-18T21:52:21",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -12549,7 +12551,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/484c5f1b6e61.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39158201",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39158201?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:33:17",
+      "last_verified": "2026-10-18T21:52:38",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -12561,7 +12563,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4edb953762e0.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39164105",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39164105?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:33:35",
+      "last_verified": "2026-10-18T21:52:54",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -12573,7 +12575,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a32b538c6ebd.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39237607",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/amg-gt/2027-mercedes-benz-amg-gt-id39237607?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:33:50",
+      "last_verified": "2026-10-18T21:53:10",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -12585,7 +12587,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c48d7624adbc.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2025-mercedes-benz-c-class-id36676476",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2025-mercedes-benz-c-class-id36676476?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:34:04",
+      "last_verified": "2026-10-18T21:53:26",
       "odometer_km": 6155,
       "condition": "new",
       "city": "North Vancouver",
@@ -12598,7 +12600,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fe4dea7893ba.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2025-mercedes-benz-c-class-id37082107",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2025-mercedes-benz-c-class-id37082107?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:34:20",
+      "last_verified": "2026-10-18T21:53:42",
       "odometer_km": 1417,
       "condition": "new",
       "city": "North Vancouver",
