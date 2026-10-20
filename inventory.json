@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz North Vancouver",
-  "generated_at": "2026-10-19T19:49:02",
-  "vehicle_count": 2500,
+  "generated_at": "2026-10-20T15:25:41",
+  "vehicle_count": 2519,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12923,7 +12923,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0d55679eeaf0.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38706402",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38706402?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:38:07",
+      "last_verified": "2026-10-20T15:21:37",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -12935,7 +12935,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/131a21dc3e00.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38741109",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38741109?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:38:24",
+      "last_verified": "2026-10-20T15:21:53",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -12947,8 +12947,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/933fbae3c63b.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38741124",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38741124?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:38:40",
-      "odometer_km": 2250,
+      "last_verified": "2026-10-20T15:22:07",
+      "odometer_km": 2750,
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -12984,7 +12984,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6184c10a3f6c.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38835368",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38835368?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:38:56",
+      "last_verified": "2026-10-20T15:22:24",
       "odometer_km": 2519,
       "condition": "new",
       "city": "North Vancouver",
@@ -13131,7 +13131,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3c73d5ecb3d6.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38981983",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38981983?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:39:14",
+      "last_verified": "2026-10-20T15:22:40",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13323,7 +13323,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e17bcae9025d.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39229067",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39229067?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:39:29",
+      "last_verified": "2026-10-20T15:22:55",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13336,6 +13336,18 @@
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39229110",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39229110?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T00:58:00",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF4HB4TR357297",
+      "stock": "2665841",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d9c1cb282c54.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39237568",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39237568?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:16:43",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13455,7 +13467,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b927532b7d74.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39289915",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39289915?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:39:44",
+      "last_verified": "2026-10-20T15:23:12",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13467,7 +13479,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/38cc2b2fa672.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39289921",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39289921?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:40:00",
+      "last_verified": "2026-10-20T15:23:27",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13479,19 +13491,21 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e68e0f79da67.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39289925",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39289925?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:40:14",
+      "last_verified": "2026-10-20T15:23:43",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
     },
     {
-      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KAF4HB8TR333861",
-      "stock": "2652966",
+      "name": "New Vehicles",
+      "vin": "W1NKJ4HBXVF647120",
+      "stock": "2765726",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/630b7326425b.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39289937",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39289937?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:40:31",
+      "last_verified": "2026-10-20T15:24:03",
+      "price": 79860.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13503,7 +13517,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/68f0eb45914b.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39289951",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39289951?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:40:45",
+      "last_verified": "2026-10-20T15:24:19",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13571,7 +13585,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d94248a507a2.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cla-ev/2026-mercedes-benz-cla-ev-id38540926",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cla-ev/2026-mercedes-benz-cla-ev-id38540926?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:41:02",
+      "last_verified": "2026-10-20T15:24:34",
       "price": 77160.0,
       "price_currency": "CAD",
       "condition": "new",
@@ -13585,7 +13599,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a82e6437dfff.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39150710",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39150710?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:41:19",
+      "last_verified": "2026-10-20T15:24:50",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13597,7 +13611,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c1d1ea6eb645.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39158197",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39158197?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:41:35",
+      "last_verified": "2026-10-20T15:25:07",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13609,7 +13623,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0cfcd752dca0.html",
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39237614",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39237614?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T12:41:49",
+      "last_verified": "2026-10-20T15:25:25",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -14399,6 +14413,18 @@
       "province": "BC"
     },
     {
+      "name": "CLE 300 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1KMJ4HB6TF134398",
+      "stock": "6B4398",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7e08ba0a3a34.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cle/2026-mercedes-benz-cle-id39026483",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cle/2026-mercedes-benz-cle-id39026483?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:16:59",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "CLE Cabriolet 300 4MATIC2026 Mercedes-Benz",
       "vin": "W1KMK4HB5TF132901",
       "stock": "2665613",
@@ -14502,6 +14528,18 @@
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cle/2026-mercedes-benz-cle-id39314634",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cle/2026-mercedes-benz-cle-id39314634?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T01:13:03",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "CLE Cabriolet 300 4MATIC2027 Mercedes-Benz",
+      "vin": "W1KMK4HB7VF135785",
+      "stock": "2765754",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1ecf3d988bda.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cle/2027-mercedes-benz-cle-id39158077",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/cle/2027-mercedes-benz-cle-id39158077?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:17:14",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -15258,6 +15296,18 @@
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/e-class/2027-mercedes-benz-e-class-id39150705",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/e-class/2027-mercedes-benz-e-class-id39150705?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T12:57:24",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "E-Class AMG 53 E2027 Mercedes-Benz",
+      "vin": "W1KLF6DB7VA315539",
+      "stock": "2765940",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2828a96c0da9.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/e-class/2027-mercedes-benz-e-class-id39158076",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/e-class/2027-mercedes-benz-e-class-id39158076?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:17:30",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -17310,6 +17360,18 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB9TJ904890",
+      "stock": "2665722",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4bfd3b924ecb.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39164058",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39164058?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:17:44",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB7TJ905858",
       "stock": "6T5858",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7ee3e5db4570.html",
@@ -17713,6 +17775,30 @@
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39289935",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39289935?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T13:59:47",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB2TJ905010",
+      "stock": "2665721",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ab7cc31fe5ac.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39289952",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39289952?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:17:58",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB3TJ904965",
+      "stock": "2665722",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/897757e4913d.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39289962",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39289962?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:18:14",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -21974,6 +22060,30 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB1TF633224",
+      "stock": "2665693",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a0b9d9cf3842.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39184659",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39184659?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:18:30",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB3TF634164",
+      "stock": "2665693",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5344a210cb34.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39184660",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39184660?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:18:47",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB1TF525279",
       "stock": "26B5279",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4c81efffdebd.html",
@@ -22143,6 +22253,66 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB3TF555867",
+      "stock": "2653003",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fbfdcd222a9a.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289934",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289934?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:19:03",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB3TF627232",
+      "stock": "2665503",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7dfed0fb8a0a.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289939",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289939?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:19:19",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB9TF428170",
+      "stock": "2650600",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6f3d1dccba97.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289948",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289948?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:19:33",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB7TF474631",
+      "stock": "2651841",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6262e7764f94.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289953",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289953?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:19:49",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB4TF520836",
+      "stock": "2652179",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/dd21b99bc41d.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289959",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289959?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:20:03",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB8TF629736",
       "stock": "6T9736",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/931a8ca2de93.html",
@@ -22233,6 +22403,18 @@
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39332913",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39332913?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T15:25:59",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1NKJ4HB6TF530678",
+      "stock": "6T0678",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3e3d51c9e72b.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39380624",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39380624?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:20:19",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -23015,6 +23197,30 @@
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39158207",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39158207?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T15:39:00",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB6VF661720",
+      "stock": "2766164",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b3c55e246c36.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39164049",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39164049?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:20:35",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB1VF662211",
+      "stock": "2766164",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a444717201fb.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39164051",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39164051?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:20:52",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -27778,6 +27984,18 @@
       "province": "BC"
     },
     {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FE6VB752677",
+      "stock": "2766630",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5cd197d3d3f6.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gls/2027-mercedes-benz-gls-id39375297",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/gls/2027-mercedes-benz-gls-id39375297?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:21:06",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "S-Class AMG 63 4MATIC Sedan2025 Mercedes-Benz",
       "vin": "W1K6G8CB6SA308195",
       "stock": "2546679",
@@ -30000,6 +30218,18 @@
       "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38691621",
       "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38691621?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T04:13:57",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof AWD2026 Mercedes-Benz",
+      "vin": "W1Y4NCVY0TP933522",
+      "stock": "2665994",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/cc4de47dda93.html",
+      "source_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38713805",
+      "dealer_url": "https://www.mercedes-benz-north-vancouver.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38713805?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T15:21:21",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
