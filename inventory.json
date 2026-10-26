@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz North Vancouver",
-  "generated_at": "2026-10-26T03:09:53",
-  "vehicle_count": 2612,
+  "generated_at": "2026-10-26T07:12:06",
+  "vehicle_count": 2613,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -226,6 +226,12 @@
       "condition": "used",
       "price": 15995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "TLX A-Spec2020 Acura",
+      "vin": "19UUB1F66LA800329",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/0be4e3f39f37.html",
+      "condition": "used"
     },
     {
       "name": "TLX SH-AWD Platinum Elite2021 Acura",
@@ -475,12 +481,6 @@
       "name": "SQ7 4.0 TFSI quattro2026 Audi",
       "vin": "WA1AWBF74TD012971",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/5f035c6ced59.html",
-      "condition": "used"
-    },
-    {
-      "name": "TT RS 2.5T quattro 7sp S Tronic Coupe2019 Audi",
-      "vin": "WUAASAFV4K1900164",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/dbe9db8d77e7.html",
       "condition": "used"
     },
     {
@@ -2392,12 +2392,6 @@
     },
     {
       "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
-      "vin": "SAL1L9FU5RA401456",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/b73ac3a67d13.html",
-      "condition": "used"
-    },
-    {
-      "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
       "vin": "SAL1L9FU1RA419064",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/558024e6b2f8.html",
       "condition": "used"
@@ -4113,6 +4107,12 @@
       "condition": "used"
     },
     {
+      "name": "Outlander Plug-In Hybrid SE S-AWC2025 Mitsubishi",
+      "vin": "JA4T5VA96SZ621678",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/6afe1bfa2b4b.html",
+      "condition": "used"
+    },
+    {
       "name": "Outlander ES S-AWC2023 Mitsubishi",
       "vin": "JA4J4UA85PZ616099",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/b83d07d77d31.html",
@@ -4892,6 +4892,12 @@
       "name": "Crosstrek Touring CVT2026 Subaru",
       "vin": "JF2GUHDCXT8234885",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/6184ff5572b8.html",
+      "condition": "used"
+    },
+    {
+      "name": "Crosstrek Convenience CVT2026 Subaru",
+      "vin": "JF2GUHBC8T8233771",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/a97b0592df68.html",
       "condition": "used"
     },
     {
