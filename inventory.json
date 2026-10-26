@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz North Vancouver",
-  "generated_at": "2026-10-25T17:46:40",
-  "vehicle_count": 2631,
+  "generated_at": "2026-10-25T22:13:28",
+  "vehicle_count": 2617,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -284,12 +284,6 @@
       "condition": "used"
     },
     {
-      "name": "New SQ5 Technik 3.0 TFSI quattro2025 Audi",
-      "vin": "WA135AGU5S2021876",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/5e1ae8639f29.html",
-      "condition": "used"
-    },
-    {
       "name": "Q3 2.0T Progressiv2015 Audi",
       "vin": "WA1EFEFS7FR001722",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/fccaea8829d5.html",
@@ -319,12 +313,6 @@
       "name": "Q3 Progressiv 45 TFSI quattro2025 Audi",
       "vin": "WA1EECF32S1112459",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/15acba1c4447.html",
-      "condition": "used"
-    },
-    {
-      "name": "Q5 Progressiv2018 Audi",
-      "vin": "WA1ENAFY2J2035455",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/0e98ff43d6a1.html",
       "condition": "used"
     },
     {
@@ -816,12 +804,6 @@
       "condition": "used"
     },
     {
-      "name": "Corvette 3LT w/ Z51 Perf Pkg2025 Chevrolet",
-      "vin": "1G1YC3D41S5109218",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/2611345cdda4.html",
-      "condition": "used"
-    },
-    {
       "name": "Corvette Z06 Convertible 1LZ2026 Chevrolet",
       "vin": "1G1YD2D36T5602022",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/1cdbd4d2a250.html",
@@ -924,12 +906,6 @@
       "condition": "used"
     },
     {
-      "name": "Challenger SRT Hellcat2023 Dodge",
-      "vin": "2C3CDZC99PH691667",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/35a800b0b692.html",
-      "condition": "used"
-    },
-    {
       "name": "Charger GT AWD2018 Dodge",
       "vin": "2C3CDXJG6JH225756",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/ba5ddc94d7aa.html",
@@ -1020,12 +996,6 @@
       "condition": "used"
     },
     {
-      "name": "Escape SE - 4WD2017 Ford",
-      "vin": "1FMCU9G9XHUC29716",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/2d3491fc87d1.html",
-      "condition": "used"
-    },
-    {
       "name": "Expedition Platinum Max2022 Ford",
       "vin": "1FMJK1MT5NEA09839",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/202018405291.html",
@@ -1065,12 +1035,6 @@
       "name": "F-150 4x4 SuperCrew Tremor - 145'' WB2023 Ford",
       "vin": "1FTEW1E84PFB92751",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/f1375738ec5a.html",
-      "condition": "used"
-    },
-    {
-      "name": "F-150 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
-      "vin": "1FTEW1EP8PKF17867",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/d9f317e8aba8.html",
       "condition": "used"
     },
     {
@@ -1270,12 +1234,6 @@
       "condition": "used"
     },
     {
-      "name": "New Sierra 1500 Crew Cab 4x4 At4 Standard Box2022 GMC",
-      "vin": "3GTUUEET3NG620656",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/571fff83a650.html",
-      "condition": "used"
-    },
-    {
       "name": "New Sierra 1500 Crew Cab 4x4 At4 Short Box2022 GMC",
       "vin": "3GTPUEEL0NG532693",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/b519d8202c94.html",
@@ -1418,12 +1376,6 @@
       "condition": "used"
     },
     {
-      "name": "Civic Sedan LX CVT2023 Honda",
-      "vin": "2HGFE2F29PH106809",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/b9c2b56fa554.html",
-      "condition": "used"
-    },
-    {
       "name": "Civic Hatchback LX CVT2023 Honda",
       "vin": "19XFL2H50PE400123",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/10603345c288.html",
@@ -1520,18 +1472,16 @@
       "condition": "used"
     },
     {
+      "name": "CR-V Hybrid EX-L AWD2025 Honda",
+      "vin": "2HKRS6H79SH200144",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/a0de7a5fea02.html",
+      "condition": "used"
+    },
+    {
       "name": "CR-V Hybrid EX-L AWD2026 Honda",
       "vin": "2HKRS6H78TH208513",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/c7de04aaa24c.html",
       "condition": "used"
-    },
-    {
-      "name": "CR-V EX-L AWD2014 Honda",
-      "vin": "2HKRM4H7XEH131130",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/53376504ce4c.html",
-      "condition": "used",
-      "price": 18995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "CR-V EX AWD2014 Honda",
@@ -1548,6 +1498,12 @@
       "condition": "used",
       "price": 14199.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "CR-V LX AWD2018 Honda",
+      "vin": "2HKRW2H26JH127878",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/f486c42cac6a.html",
+      "condition": "used"
     },
     {
       "name": "CR-V LX AWD CVT2019 Honda",
@@ -1579,6 +1535,12 @@
       "condition": "used",
       "price": 10995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "HR-V EX-L Navi 4WD CVT2023 Honda",
+      "vin": "3CZRZ2H73PM101433",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/848d7ac5a878.html",
+      "condition": "used"
     },
     {
       "name": "HR-V LX-B FWD CVT2024 Honda",
@@ -1722,12 +1684,6 @@
       "name": "Ridgeline Touring2019 Honda",
       "vin": "5FPYK3F74KB506171",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/aea8bc50e5e7.html",
-      "condition": "used"
-    },
-    {
-      "name": "Ridgeline Touring2019 Honda",
-      "vin": "5FPYK3F73KB501205",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/f85e729de5f0.html",
       "condition": "used"
     },
     {
@@ -2063,14 +2019,6 @@
       "vin": "1C4JJXFM9MW835165",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/f796e1ec4e6c.html",
       "condition": "used"
-    },
-    {
-      "name": "Wrangler Rubicon 2D Utility 4WD2012 Jeep",
-      "vin": "1C4GJWBG9CL180042",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/8ee7c05d89e5.html",
-      "condition": "used",
-      "price": 15887.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Wrangler JL Unlimited Sport2020 Jeep",
@@ -2673,12 +2621,6 @@
       "condition": "used"
     },
     {
-      "name": "GX 5502025 Lexus",
-      "vin": "JTJVBCDX8S5050673",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/02e9917398a8.html",
-      "condition": "used"
-    },
-    {
       "name": "IS 300 AWD2024 Lexus",
       "vin": "JTHC81F28R5054018",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/58eb467551ee.html",
@@ -2857,12 +2799,6 @@
       "condition": "used"
     },
     {
-      "name": "3 Sport GT2020 Mazda",
-      "vin": "JM1BPBMM8L1169274",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/aa6e8d036bb4.html",
-      "condition": "used"
-    },
-    {
       "name": "3 GS 5sp2005 Mazda",
       "vin": "JM1BK12F551315016",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/12e5e32cb60b.html",
@@ -2936,6 +2872,12 @@
       "name": "B-Class B 2502018 Mercedes-Benz",
       "vin": "WDDMH4GB7JJ476370",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/1b70e69a3f87.html",
+      "condition": "used"
+    },
+    {
+      "name": "B250 4MATIC Sports Tourer2018 Mercedes-Benz",
+      "vin": "WDDMH4GB5JJ472169",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/1e7a9184a13c.html",
       "condition": "used"
     },
     {
@@ -3041,9 +2983,9 @@
       "condition": "used"
     },
     {
-      "name": "CLA250 4MATIC Coupe2025 Mercedes-Benz",
-      "vin": "W1K5J4HB0SN520873",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/42862adb5dd3.html",
+      "name": "CLA250 4MATIC Coupe2018 Mercedes-Benz",
+      "vin": "WDDSJ4GB5JN518703",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/6f26f90a6a95.html",
       "condition": "used"
     },
     {
@@ -3232,12 +3174,6 @@
       "name": "EQE500 4MATIC Sedan2023 Mercedes-Benz",
       "vin": "W1KEG2CBXPF028413",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/d92bcb10ed52.html",
-      "condition": "used"
-    },
-    {
-      "name": "EQS580 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KCG4EB2NA012801",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/a1fb295595db.html",
       "condition": "used"
     },
     {
@@ -4129,12 +4065,6 @@
       "condition": "used"
     },
     {
-      "name": "Sprinter Cargo Van 2500 High Roof I4 Diesel 1702025 Mercedes-Benz",
-      "vin": "W1Y4KCHY0SP795645",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/7a467142b2cc.html",
-      "condition": "used"
-    },
-    {
       "name": "Sprinter Gas 2500 Cargo 1702022 Mercedes-Benz",
       "vin": "W1Y40CHY7NT105181",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/10940c809c36.html",
@@ -4198,18 +4128,6 @@
       "name": "Outlander ES S-AWC2024 Mitsubishi",
       "vin": "JA4J4UA89RZ612172",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/44f913ca20e4.html",
-      "condition": "used"
-    },
-    {
-      "name": "Altima Sedan 2.5 S CVT2015 Nissan",
-      "vin": "1N4AL3AP7FN374289",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/86873bb558d2.html",
-      "condition": "used"
-    },
-    {
-      "name": "Ariya Premiere e-4orce2023 Nissan",
-      "vin": "JN1DF0CD5PM704103",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/c88ffcedc6ae.html",
       "condition": "used"
     },
     {
@@ -4375,21 +4293,9 @@
       "condition": "used"
     },
     {
-      "name": "Pathfinder Platinum 4WD2024 Nissan",
-      "vin": "5N1DR3DF8RC270771",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/0f2d75306739.html",
-      "condition": "used"
-    },
-    {
       "name": "Qashqai SV AWD CVT2018 Nissan",
       "vin": "JN1BJ1CR5JW258005",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/8563a47ebd5a.html",
-      "condition": "used"
-    },
-    {
-      "name": "Qashqai SV2021 Nissan",
-      "vin": "JN1BJ1BW9MW446781",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/f41c94006d27.html",
       "condition": "used"
     },
     {
@@ -4404,14 +4310,6 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/3807496ef7c3.html",
       "condition": "used",
       "price": 8699.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Rogue SL AWD CVT2015 Nissan",
-      "vin": "5N1AT2MV9FC818696",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/6473a050d599.html",
-      "condition": "used",
-      "price": 13999.0,
       "price_currency": "CAD"
     },
     {
@@ -4781,6 +4679,12 @@
       "condition": "used"
     },
     {
+      "name": "Ascent Limited2022 Subaru",
+      "vin": "4S4WMALD9N3401521",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/c4a6104e1bf1.html",
+      "condition": "used"
+    },
+    {
       "name": "Ascent Premier2023 Subaru",
       "vin": "4S4WMAWD1P3456883",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/1edd2d87242a.html",
@@ -4838,12 +4742,6 @@
       "name": "Crosstrek Onyx CVT2024 Subaru",
       "vin": "JF2GUHFC1RH261477",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/ab81708acfff.html",
-      "condition": "used"
-    },
-    {
-      "name": "Crosstrek Convenience CVT2024 Subaru",
-      "vin": "JF2GUABC4RH252298",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/0e734d5262eb.html",
       "condition": "used"
     },
     {
@@ -4979,12 +4877,6 @@
       "condition": "used"
     },
     {
-      "name": "Crosstrek Convenience CVT2026 Subaru",
-      "vin": "JF2GUHBC3T8226226",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/3ad6bbb7a4b2.html",
-      "condition": "used"
-    },
-    {
       "name": "Crosstrek Touring CVT2026 Subaru",
       "vin": "JF2GUHDC3T8234890",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/79e1aeff5ea7.html",
@@ -5000,12 +4892,6 @@
       "name": "Crosstrek Touring CVT2026 Subaru",
       "vin": "JF2GUHDCXT8234885",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/6184ff5572b8.html",
-      "condition": "used"
-    },
-    {
-      "name": "Crosstrek Convenience CVT2026 Subaru",
-      "vin": "JF2GUHBC8T8233771",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/a97b0592df68.html",
       "condition": "used"
     },
     {
@@ -5080,6 +4966,12 @@
       "name": "Forester Limited 2.5L CVT2025 Subaru",
       "vin": "JF2SLDRC7SH445684",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/c5f78652ec94.html",
+      "condition": "used"
+    },
+    {
+      "name": "Forester Premier 2.5L CVT2025 Subaru",
+      "vin": "JF2SLDTC0SH566517",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/fe1250ef3068.html",
       "condition": "used"
     },
     {
@@ -5251,6 +5143,12 @@
       "condition": "used"
     },
     {
+      "name": "Impreza RS AWD2024 Subaru",
+      "vin": "JF1GUHJC0R8266343",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/c8677a10dc8e.html",
+      "condition": "used"
+    },
+    {
       "name": "Impreza Touring CVT2026 Subaru",
       "vin": "JF1GUAFC3T8215328",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/befe42a96e6b.html",
@@ -5343,6 +5241,12 @@
       "condition": "used"
     },
     {
+      "name": "Outback 2.4L Limited XT Turbo2026 Subaru",
+      "vin": "JF2BURHD2TY463662",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/8328487d5db4.html",
+      "condition": "used"
+    },
+    {
       "name": "Solterra at-PUE ALX2023 Subaru",
       "vin": "JTMABABA6PA033700",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/32f006914c9c.html",
@@ -5394,6 +5298,12 @@
       "name": "Model 3 Long Range AWD W/Autopilot2022 Tesla",
       "vin": "5YJ3E1EB1NF252430",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/7d3b369bd417.html",
+      "condition": "used"
+    },
+    {
+      "name": "Model 3 Long Range2024 Tesla",
+      "vin": "LRW3E7EB1RC100828",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/7d7c7bbc2420.html",
       "condition": "used"
     },
     {
@@ -5475,9 +5385,9 @@
       "condition": "used"
     },
     {
-      "name": "Corolla Hatchback XSE PACKAGE2023 Toyota",
-      "vin": "JTNK4MBE5P3197037",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/de3c719c39a3.html",
+      "name": "Corolla Hybrid Hybrid2022 Toyota",
+      "vin": "JTDBAMDE2N3006309",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/5a51a6424acd.html",
       "condition": "used"
     },
     {
@@ -5514,12 +5424,6 @@
     },
     {
       "name": "Corolla 4-door Sedan LE CVT2020 Toyota",
-      "vin": "5YFBPRBE0LP012449",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/6efa0f0456a6.html",
-      "condition": "used"
-    },
-    {
-      "name": "Corolla 4-door Sedan LE CVT2020 Toyota",
       "vin": "5YFBPRBE5LP014567",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/91a44d820210.html",
       "condition": "used"
@@ -5540,6 +5444,12 @@
       "name": "Corolla LE CVT2026 Toyota",
       "vin": "5YFB4MDE6TP402822",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/f3217c273e45.html",
+      "condition": "used"
+    },
+    {
+      "name": "GR Supra 3.0 Premium2022 Toyota",
+      "vin": "WZ1DB0C01NW051259",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/b3b9615d4237.html",
       "condition": "used"
     },
     {
@@ -5597,14 +5507,6 @@
       "vin": "JTEABFAJ4SK025544",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/2ec129f3c81c.html",
       "condition": "used"
-    },
-    {
-      "name": "Matrix 5-door FWD 4A2004 Toyota",
-      "vin": "2T1KR32E14C194378",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/be3f37b40f95.html",
-      "condition": "used",
-      "price": 6999.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Prius c eCVT2012 Toyota",
@@ -5783,6 +5685,12 @@
       "condition": "used"
     },
     {
+      "name": "Golf R Black Edition DSG2025 Volkswagen",
+      "vin": "WVWKB7CDXSW228954",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/6e2f55d77307.html",
+      "condition": "used"
+    },
+    {
       "name": "Golf R DSG2026 Volkswagen",
       "vin": "WVWCF7CD3TW177565",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/20b10f83c863.html",
@@ -5792,12 +5700,6 @@
       "name": "Golf Sportwagen Alltrack 1.8T Highline 6sp 4MOTION2019 Volkswagen",
       "vin": "3VWM17AU9KM522017",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/0ad9c5119b3d.html",
-      "condition": "used"
-    },
-    {
-      "name": "GOLF Trendline2017 Volkswagen",
-      "vin": "3VW217AU7HM056054",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/3b7e145121ab.html",
       "condition": "used"
     },
     {
@@ -5886,6 +5788,12 @@
       "name": "XC40 T5 AWD Inscription2022 Volvo",
       "vin": "YV4162UL3N2761259",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/0d522c84642f.html",
+      "condition": "used"
+    },
+    {
+      "name": "XC60 T6 Drive-E AWD Premier2017 Volvo",
+      "vin": "YV449MRKXH2119996",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/16c9570d00f5.html",
       "condition": "used"
     },
     {
