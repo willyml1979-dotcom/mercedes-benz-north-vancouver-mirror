@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz North Vancouver",
-  "generated_at": "2026-10-26T07:12:06",
-  "vehicle_count": 2613,
+  "generated_at": "2026-11-16T21:21:29",
+  "vehicle_count": 2749,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -5815,15 +5815,15 @@
       "condition": "new"
     },
     {
-      "name": "AMG GT 55 4MATIC+ Coupe2026 Mercedes-Benz",
-      "vin": "W1KRJ8AB1TF012930",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/36a233c5a57c.html",
+      "name": "AMG GT 63 PRO Coupe2026 Mercedes-Benz",
+      "vin": "W1KRJ8JB0TF010019",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/093f5630a23a.html",
       "condition": "new"
     },
     {
       "name": "AMG GT 55 4MATIC+ Coupe2026 Mercedes-Benz",
-      "vin": "W1KRJ8AB3TF012475",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d226b17eac10.html",
+      "vin": "W1KRJ8AB1TF012930",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/36a233c5a57c.html",
       "condition": "new"
     },
     {
@@ -5846,12 +5846,6 @@
     },
     {
       "name": "AMG GT 63 4MATIC+ Coupe2027 Mercedes-Benz",
-      "vin": "W1KRJ7JB9VF013241",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/484c5f1b6e61.html",
-      "condition": "new"
-    },
-    {
-      "name": "AMG GT 63 4MATIC+ Coupe2027 Mercedes-Benz",
       "vin": "W1KRJ7JB6VF013469",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4edb953762e0.html",
       "condition": "new"
@@ -5860,6 +5854,12 @@
       "name": "AMG GT GT 43 Coupe2027 Mercedes-Benz",
       "vin": "W1KRJ4CB6VF013046",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a32b538c6ebd.html",
+      "condition": "new"
+    },
+    {
+      "name": "AMG GT 63 4MATIC+ Coupe2027 Mercedes-Benz",
+      "vin": "W1KRJ7JB9VF013241",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e3cacf10dd10.html",
       "condition": "new"
     },
     {
@@ -6026,6 +6026,12 @@
     },
     {
       "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF4HB6TR338752",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/071317330b55.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KAF4HB9TR342357",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b3711b001efa.html",
       "condition": "new"
@@ -6187,12 +6193,6 @@
       "condition": "new"
     },
     {
-      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KAF8HB0TR351651",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8beabb3d9bee.html",
-      "condition": "new"
-    },
-    {
       "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KAF4HB2TR342071",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0dfdcb24d6a1.html",
@@ -6220,12 +6220,6 @@
       "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KAF8HB9TR353043",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e611e3eaee1b.html",
-      "condition": "new"
-    },
-    {
-      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KAF4HB9TR357926",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ccc12f15a353.html",
       "condition": "new"
     },
     {
@@ -6292,12 +6286,6 @@
       "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KAF8HB8TR351655",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a1d40fd1ff51.html",
-      "condition": "new"
-    },
-    {
-      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KAF8HB4TR354391",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2a240220a481.html",
       "condition": "new"
     },
     {
@@ -6368,14 +6356,236 @@
     },
     {
       "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KAF4HB5TR354232",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/68f0eb45914b.html",
+      "vin": "W1KAF4HB5TR306293",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/173f5e127373.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF8HB7TR360847",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1e83b7176935.html",
       "condition": "new"
     },
     {
       "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KAF4HB5TR306293",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/173f5e127373.html",
+      "vin": "W1KAF4HB0TR359774",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4ca87cb024c1.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF8HB6TR359849",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/96bb8c229b40.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF4HB8TR358081",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/03aa5fec5c39.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF4HB8TR357321",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/06a84d5a6aa4.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF8HB1TR360245",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c70a668450a6.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF8HB8TR360789",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b8057c93c8bc.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF4HB6TR359228",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/79eb03fc8641.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF8HB6TR360175",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5ea3ff3af37f.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF8HB4TR360157",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/46885e513123.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF8HB8TR358024",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/61958ca6428b.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF8HB1TR358818",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/92db5a85e8ec.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF4HB9TR357926",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bc62c1ce94d7.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF4HB1TR357984",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7079bf8998e6.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF8HBXTR384799",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/872fa0ecf607.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB1VR369698",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/20ae2f7a437e.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB5VR374354",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5abcac3cecc8.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB9VR369884",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f6715f15e541.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB9VR374356",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/77b72a85c99d.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB4VR369713",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5bbdb3c637e6.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB2VR374117",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8473db203f0d.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HBXVR366945",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/79bf06eea531.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB7VR366949",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/92e8904a915f.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HBXVR369716",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e437775ecbdc.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB9VR369707",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3fc3fa67be78.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB7VR366952",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/80375cfd421d.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB9VR369710",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c4ae23874294.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB7VR374680",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/317f4e1a4fdc.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB8VR366765",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c597492872de.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB2VR374036",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8f0901a67b34.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB2VR374103",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7bd46e067f3f.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB9VR374101",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a32a070f272c.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB5VR369901",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0df2cc6e46c6.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB1VR366672",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4d1907971c8b.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB0VR374102",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/042682a4f3a1.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB9VR369903",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d38c2b20923c.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HBXVR369831",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b737dcd97c96.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB1VR369829",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/29b3cd6ad02f.html",
       "condition": "new"
     },
     {
@@ -6412,12 +6622,6 @@
     },
     {
       "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
-      "vin": "W1KFJ4EB8VJ068434",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a82e6437dfff.html",
-      "condition": "new"
-    },
-    {
-      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
       "vin": "W1KFJ4EB0VJ068122",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c1d1ea6eb645.html",
       "condition": "new"
@@ -6429,9 +6633,123 @@
       "condition": "new"
     },
     {
+      "name": "CLA EV 250+ Sedan2027 Mercedes-Benz",
+      "vin": "W1KFJ1DBXVJ068421",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ac78a2dfe13d.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB5VJ066513",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2aa305d7f3ec.html",
+      "condition": "new"
+    },
+    {
       "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
       "vin": "W1KFJ4EB9VJ076591",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b1214ee6f49f.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB1VJ076293",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/894238996787.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB4VJ077096",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7467eb7b5f7e.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB6VJ076516",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7f61a50d164c.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB8VJ079918",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d06a03a72fc7.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB3VJ069166",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3f39f2523ca4.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 250+ Sedan2027 Mercedes-Benz",
+      "vin": "W1KFJ1DB1VJ078240",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5967a86520ad.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB7VJ080123",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/dad887668e24.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB1VJ067898",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bf4b3860807a.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB2VJ083463",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/eb2824b9d4f8.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 250+ Sedan2027 Mercedes-Benz",
+      "vin": "W1KFJ1DB7VJ089193",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/39193aef60e7.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB3VJ090275",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/661e914668d7.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB3VJ084363",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/945a5ee9a123.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 250+ Sedan2027 Mercedes-Benz",
+      "vin": "W1KFJ1DB2VJ083222",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/12719960b553.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB1VJ069277",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/cb8a240ef2da.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 250+ Sedan2027 Mercedes-Benz",
+      "vin": "W1KFJ1DB0VJ084885",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/60165f100ade.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 250+ Sedan2027 Mercedes-Benz",
+      "vin": "W1KFJ1DB3VJ088557",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ce6f0df5badc.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
+      "vin": "W1KFJ4EB5VJ089130",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7a4d7a0dff1d.html",
       "condition": "new"
     },
     {
@@ -6525,12 +6843,6 @@
       "condition": "new"
     },
     {
-      "name": "CLA AMG 35 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J5BB9TN596396",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8626a1aac642.html",
-      "condition": "new"
-    },
-    {
       "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1K5J4HB2TN598802",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/33ffef7c0d1c.html",
@@ -6540,12 +6852,6 @@
       "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1K5J4HBXTN598997",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/340d147ba34c.html",
-      "condition": "new"
-    },
-    {
-      "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB5TN596302",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/717d9945c561.html",
       "condition": "new"
     },
     {
@@ -6658,12 +6964,6 @@
     },
     {
       "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB2TN605831",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/661f1da9f210.html",
-      "condition": "new"
-    },
-    {
-      "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1K5J4HB9TN608516",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/87ae13e2685f.html",
       "condition": "new"
@@ -6678,12 +6978,6 @@
       "name": "CLA AMG 35 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1K5J5BB2TN608100",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4848933d67e4.html",
-      "condition": "new"
-    },
-    {
-      "name": "CLA AMG 35 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J5BB1TN608735",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1fc4874ef974.html",
       "condition": "new"
     },
     {
@@ -6736,12 +7030,6 @@
     },
     {
       "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB6TN608005",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/053fa18fa828.html",
-      "condition": "new"
-    },
-    {
-      "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1K5J4HB8TN611133",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ad01b96a6571.html",
       "condition": "new"
@@ -6750,18 +7038,6 @@
       "name": "CLA 250 Coupe2026 Mercedes-Benz",
       "vin": "W1K5J4GB6TN611116",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/177355ca07ac.html",
-      "condition": "new"
-    },
-    {
-      "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB1TN600393",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/69218dbd9b3a.html",
-      "condition": "new"
-    },
-    {
-      "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB3TN608477",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6b1bad240297.html",
       "condition": "new"
     },
     {
@@ -6795,9 +7071,21 @@
       "condition": "new"
     },
     {
+      "name": "CLA AMG 35 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1K5J5BB1TN608735",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ea77b3a14616.html",
+      "condition": "new"
+    },
+    {
       "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB7TN610264",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b278401fcb6e.html",
+      "vin": "W1K5J4HB5TN596302",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9ebc1597a3d8.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1K5J4HB6TN608005",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6e16cc921ab3.html",
       "condition": "new"
     },
     {
@@ -6810,6 +7098,12 @@
       "name": "CLE 300 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1KMJ4HB7TF094557",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2300c33ae71d.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE 450 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1KMJ6BB8TF108924",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/19b2e93fdd76.html",
       "condition": "new"
     },
     {
@@ -6846,12 +7140,6 @@
       "name": "CLE Cabriolet 450 4M2026 Mercedes-Benz",
       "vin": "W1KMK6BB2TF125179",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2c028770fe3d.html",
-      "condition": "new"
-    },
-    {
-      "name": "CLE Cabriolet 300 4MATIC2026 Mercedes-Benz",
-      "vin": "W1KMK4HB9TF127491",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/eff2b7c0dc93.html",
       "condition": "new"
     },
     {
@@ -6927,15 +7215,15 @@
       "condition": "new"
     },
     {
-      "name": "CLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
-      "vin": "W1KMJ6CB3TF134541",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a2d53816c04a.html",
+      "name": "CLE 300 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1KMJ4HB7TF134250",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5408cdffbdca.html",
       "condition": "new"
     },
     {
-      "name": "CLE 450 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1KMJ6BBXTF131136",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/66f2ae5df4ea.html",
+      "name": "CLE Cabriolet 300 4MATIC2026 Mercedes-Benz",
+      "vin": "W1KMK4HB9TF127491",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5fe284a4c4e6.html",
       "condition": "new"
     },
     {
@@ -6958,6 +7246,12 @@
     },
     {
       "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6CB7VF136974",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/37dc005ef11c.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
       "vin": "W1KMJ6CB3VF139533",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/aa37effbba09.html",
       "condition": "new"
@@ -6966,12 +7260,6 @@
       "name": "CLE Cabriolet AMG 53 4MATIC2027 Mercedes-Benz",
       "vin": "W1KMK6CB8VF137984",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/def347725f70.html",
-      "condition": "new"
-    },
-    {
-      "name": "CLE 450 4MATIC Coupe2027 Mercedes-Benz",
-      "vin": "W1KMJ6BBXVF139031",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2e906410da4b.html",
       "condition": "new"
     },
     {
@@ -6990,12 +7278,6 @@
       "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
       "vin": "W1KMJ6CB3VF136552",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9c0aa25099a2.html",
-      "condition": "new"
-    },
-    {
-      "name": "CLE 300 4MATIC Coupe2027 Mercedes-Benz",
-      "vin": "W1KMJ4HB5VF139532",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8d0bbb0321fc.html",
       "condition": "new"
     },
     {
@@ -7035,12 +7317,6 @@
       "condition": "new"
     },
     {
-      "name": "CLE Cabriolet AMG 53 4MATIC2027 Mercedes-Benz",
-      "vin": "W1KMK6CB8VF139251",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c56d75e8b8ab.html",
-      "condition": "new"
-    },
-    {
       "name": "CLE 300 4MATIC Coupe2027 Mercedes-Benz",
       "vin": "W1KMJ4HB9VF140618",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/46a0d0df7f55.html",
@@ -7060,14 +7336,122 @@
     },
     {
       "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
-      "vin": "W1KMJ6CB9VF137222",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/52119c19bd61.html",
+      "vin": "W1KMJ6CB7VF141611",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4cba0ecf8a2d.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE Cabriolet AMG 53 4MATIC2027 Mercedes-Benz",
+      "vin": "W1KMK6CB5VF144620",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1f0570ba5d3c.html",
       "condition": "new"
     },
     {
       "name": "CLE 300 4MATIC Coupe2027 Mercedes-Benz",
       "vin": "W1KMJ4HB9VF141705",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/94b2d60f002a.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE Cabriolet AMG 53 4MATIC2027 Mercedes-Benz",
+      "vin": "W1KMK6CB8VF139251",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5ecac79e330b.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6CB9VF143926",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7a3948f66a8d.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6CB5VF142045",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/26c7da7dd675.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE 450 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6BB7VF141111",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/13c7fadb8476.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE Cabriolet 300 4MATIC2027 Mercedes-Benz",
+      "vin": "W1KMK4HB0VF136258",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/daacdd328162.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE Cabriolet AMG 53 4MATIC2027 Mercedes-Benz",
+      "vin": "W1KMK6CB4VF143720",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0e7f75054b23.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE 450 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6BB7VF142517",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ed3619ea1e5d.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6CB9VF137222",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5e38300aada4.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ4HB6VF146781",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1d2e897f418b.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6CB9VF145529",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d762f82fc0fc.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE 450 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6BB2VF147463",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/21d42848b09e.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE Cabriolet 450 4M2027 Mercedes-Benz",
+      "vin": "W1KMK6BB2VF140719",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/89338256f7f0.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6CB5VF142580",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0804b4e6c428.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6CB8VF144663",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c7e3aaeb4955.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ4HB8VF146314",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8bd35b3c3008.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6CB2VF145470",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4d0d65ee15ee.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLE 450 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6BBXVF149882",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/09cde94a1cdd.html",
       "condition": "new"
     },
     {
@@ -7149,15 +7533,9 @@
       "condition": "new"
     },
     {
-      "name": "E-Class 450 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KLF6BB3TA233243",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/eea5f3ca7dc9.html",
-      "condition": "new"
-    },
-    {
       "name": "E-Class 350 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KLF4HB6TA258312",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b4756a93e703.html",
+      "vin": "W1KLF4HB2TA220544",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1dbd99eddadc.html",
       "condition": "new"
     },
     {
@@ -7186,12 +7564,6 @@
     },
     {
       "name": "E-Class 350 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KLF4HB5TA249813",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c260b7fe8efd.html",
-      "condition": "new"
-    },
-    {
-      "name": "E-Class 350 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KLF4HBXTA254702",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/27637e8a12f1.html",
       "condition": "new"
@@ -7206,12 +7578,6 @@
       "name": "E-Class 350 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KLF4HB8TA254360",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/19ed9cfcef8d.html",
-      "condition": "new"
-    },
-    {
-      "name": "E-Class 350 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KLF4HB9TA249006",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/88e1f0e3622f.html",
       "condition": "new"
     },
     {
@@ -7236,18 +7602,6 @@
       "name": "E-Class AMG 53 HYBRID Wagon2026 Mercedes-Benz",
       "vin": "W1KLH6DB4TA226616",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3b3adaeeec73.html",
-      "condition": "new"
-    },
-    {
-      "name": "E-Class 450 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KLF6BB2TA262376",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1da338d4da43.html",
-      "condition": "new"
-    },
-    {
-      "name": "E-Class 450 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1NKM4HB6TF581444",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/964f84e58f7f.html",
       "condition": "new"
     },
     {
@@ -7293,12 +7647,6 @@
       "condition": "new"
     },
     {
-      "name": "E-Class 350 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KLF4HB5TA301778",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/abae00c9d5cb.html",
-      "condition": "new"
-    },
-    {
       "name": "E-Class 450 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KLF6BB4TA261035",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c01e778085cd.html",
@@ -7317,15 +7665,21 @@
       "condition": "new"
     },
     {
-      "name": "E-Class AMG 53 E2027 Mercedes-Benz",
-      "vin": "W1KLF6DB8VA314674",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c12c1a63a929.html",
+      "name": "E-Class AMG 53 HYBRID Wagon2026 Mercedes-Benz",
+      "vin": "W1KLH6DB1TA293819",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ed0b4ba2d97e.html",
+      "condition": "new"
+    },
+    {
+      "name": "E-Class 450 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KLF6BB2TA262376",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/05085ef4363d.html",
       "condition": "new"
     },
     {
       "name": "E-Class AMG 53 E2027 Mercedes-Benz",
-      "vin": "W1KLF6DB7VA315539",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2828a96c0da9.html",
+      "vin": "W1KLF6DB8VA314674",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c12c1a63a929.html",
       "condition": "new"
     },
     {
@@ -7383,9 +7737,63 @@
       "condition": "new"
     },
     {
+      "name": "E-Class AMG 53 E2027 Mercedes-Benz",
+      "vin": "W1KLF6DB6VA327276",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fd9018254f06.html",
+      "condition": "new"
+    },
+    {
       "name": "E-Class 450 4MATIC2027 Mercedes-Benz",
       "vin": "W1KLF6BB0VA329799",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d52af943a771.html",
+      "condition": "new"
+    },
+    {
+      "name": "E-Class 350 4MATIC2027 Mercedes-Benz",
+      "vin": "W1KLF4HB3VA330103",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/538e1e79783e.html",
+      "condition": "new"
+    },
+    {
+      "name": "E-Class 450 4MATIC2027 Mercedes-Benz",
+      "vin": "W1KLF6BB2VA329089",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/332a943268f7.html",
+      "condition": "new"
+    },
+    {
+      "name": "E-Class AMG 53 E2027 Mercedes-Benz",
+      "vin": "W1KLF6DB8VA328686",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5abc8fcb5a82.html",
+      "condition": "new"
+    },
+    {
+      "name": "E-Class AMG 53 E2027 Mercedes-Benz",
+      "vin": "W1KLF6DB0VA324051",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6dfb17bcc6b0.html",
+      "condition": "new"
+    },
+    {
+      "name": "E-Class AMG 53 E2027 Mercedes-Benz",
+      "vin": "W1KLF6DB5VA326815",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5ab2c633d9aa.html",
+      "condition": "new"
+    },
+    {
+      "name": "E-Class AMG 53 E2027 Mercedes-Benz",
+      "vin": "W1KLF6DB0VA326883",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2fd64eb1c86b.html",
+      "condition": "new"
+    },
+    {
+      "name": "E-Class AMG 53 HYBRID Wagon2027 Mercedes-Benz",
+      "vin": "W1KLH6DB7VA327636",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8ec4e3af3d5d.html",
+      "condition": "new"
+    },
+    {
+      "name": "E-Class 350 4MATIC2027 Mercedes-Benz",
+      "vin": "W1KLF4HB7VA333733",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/09965f9ec561.html",
       "condition": "new"
     },
     {
@@ -7438,6 +7846,12 @@
     },
     {
       "name": "EQB 300 4M SUV2025 Mercedes-Benz",
+      "vin": "W1N9M0KB5SN132034",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7d201f15ffad.html",
+      "condition": "new"
+    },
+    {
+      "name": "EQB 300 4M SUV2025 Mercedes-Benz",
       "vin": "W1N9M0KB9SN140458",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/919df985ddae.html",
       "condition": "new"
@@ -7456,12 +7870,6 @@
     },
     {
       "name": "EQE 320 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KEG1CB2TF075133",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fea7c8ee7c9c.html",
-      "condition": "new"
-    },
-    {
-      "name": "EQE 320 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KEG1CB7TF077248",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7197d38666de.html",
       "condition": "new"
@@ -7470,12 +7878,6 @@
       "name": "EQE 320 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KEG1CB3TF076050",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/536489b658b1.html",
-      "condition": "new"
-    },
-    {
-      "name": "EQE 320 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KEG1CB8TF077226",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/468f2b9b8a7a.html",
       "condition": "new"
     },
     {
@@ -7498,8 +7900,8 @@
     },
     {
       "name": "ESprinter 170 Wheelbase High Roof RWD2025 Mercedes-Benz",
-      "vin": "W1Y4VCHY2ST214029",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ddf828eb744b.html",
+      "vin": "W1Y4VCHY6ST215717",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/07c64761ccfd.html",
       "condition": "new"
     },
     {
@@ -7528,30 +7930,6 @@
     },
     {
       "name": "ESprinter 170 Wheelbase High Roof RWD2025 Mercedes-Benz",
-      "vin": "W1Y4VCHY4ST214372",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c8a547be793f.html",
-      "condition": "new"
-    },
-    {
-      "name": "ESprinter 170 Wheelbase High Roof RWD2025 Mercedes-Benz",
-      "vin": "W1Y4VCHY9ST214884",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/01038363573c.html",
-      "condition": "new"
-    },
-    {
-      "name": "ESprinter 170 Wheelbase High Roof RWD2025 Mercedes-Benz",
-      "vin": "W1Y4VCHY5ST215210",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ac0184990853.html",
-      "condition": "new"
-    },
-    {
-      "name": "ESprinter 170 Wheelbase High Roof RWD2025 Mercedes-Benz",
-      "vin": "W1Y4VCHY5ST215207",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/974ca8d2e2c2.html",
-      "condition": "new"
-    },
-    {
-      "name": "ESprinter 170 Wheelbase High Roof RWD2025 Mercedes-Benz",
       "vin": "W1Y4VCHY8ST215041",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ff8c4a853d62.html",
       "condition": "new"
@@ -7560,12 +7938,6 @@
       "name": "ESprinter 170 Wheelbase High Roof RWD2025 Mercedes-Benz",
       "vin": "W1Y4VCHY5ST213859",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0a01532c5722.html",
-      "condition": "new"
-    },
-    {
-      "name": "ESprinter 170 Wheelbase High Roof RWD2025 Mercedes-Benz",
-      "vin": "W1Y4VCHY0ST218239",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5a8fc21cfbb3.html",
       "condition": "new"
     },
     {
@@ -7618,14 +7990,20 @@
     },
     {
       "name": "ESprinter 170 Wheelbase High Roof RWD2025 Mercedes-Benz",
-      "vin": "W1Y4VCHYXST216031",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7ef7b7018237.html",
+      "vin": "W1Y4VCHYXST219057",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5577dffcd696.html",
       "condition": "new"
     },
     {
       "name": "ESprinter 170 Wheelbase High Roof RWD2025 Mercedes-Benz",
-      "vin": "W1Y4VCHYXST219057",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5577dffcd696.html",
+      "vin": "W1Y4VCHYXST216031",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d169e91ed601.html",
+      "condition": "new"
+    },
+    {
+      "name": "ESprinter 144 Wheelbase Standard Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHY4TP884694",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/51ffd1466bf6.html",
       "condition": "new"
     },
     {
@@ -7638,6 +8016,12 @@
       "name": "G-Class 580e SUV2026 Mercedes-Benz",
       "vin": "W1NWM0ABXTX091443",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d26538499171.html",
+      "condition": "new"
+    },
+    {
+      "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
+      "vin": "W1NWH5AB7VX095079",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d5c47c215271.html",
       "condition": "new"
     },
     {
@@ -7671,6 +8055,42 @@
       "condition": "new"
     },
     {
+      "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
+      "vin": "W1NWH5AB1VX095773",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/81220574adbb.html",
+      "condition": "new"
+    },
+    {
+      "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
+      "vin": "W1NWH5AB7VX104217",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f97d090d854c.html",
+      "condition": "new"
+    },
+    {
+      "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
+      "vin": "W1NWH5AB2VX101953",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6c6b5d044a88.html",
+      "condition": "new"
+    },
+    {
+      "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
+      "vin": "W1NWH5AB6VX102314",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/896cceba8e52.html",
+      "condition": "new"
+    },
+    {
+      "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
+      "vin": "W1NWH5AB6VX103723",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fd2da6f64413.html",
+      "condition": "new"
+    },
+    {
+      "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
+      "vin": "W1NWH5AB7VX106887",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c10307b99538.html",
+      "condition": "new"
+    },
+    {
       "name": "GLA 250 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1N4N4HBXSJ744727",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/982e8e51b2a9.html",
@@ -7680,12 +8100,6 @@
       "name": "GLA 250 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1N4N4HB1SJ702219",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/06932b3dcbab.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2025 Mercedes-Benz",
-      "vin": "W1N4N4HB1SJ676785",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3ecdbf2b2f8a.html",
       "condition": "new"
     },
     {
@@ -7702,12 +8116,6 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB0TJ792738",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/47a133b6116f.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB3TJ783855",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/dc68e756c004.html",
       "condition": "new"
@@ -7716,12 +8124,6 @@
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB4TJ793472",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/dc1e028f6ccd.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA AMG 35 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N5BB9TJ818851",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/27e6913a91b1.html",
       "condition": "new"
     },
     {
@@ -7788,12 +8190,6 @@
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB6TJ814161",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6f509eeeee89.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HBXTJ833439",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/de419cb5d646.html",
       "condition": "new"
     },
     {
@@ -7942,12 +8338,6 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HBXTJ866215",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bf747379d90c.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB7TJ802505",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e6bbeddceca0.html",
       "condition": "new"
@@ -7972,20 +8362,8 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB6TJ840565",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3eee5cb50de8.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB2TJ842099",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/10c5bfb5488a.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB9TJ873799",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/15ef98afbfb9.html",
       "condition": "new"
     },
     {
@@ -8002,44 +8380,8 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB9TJ869137",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/698f4e6677e3.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB2TJ871294",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/712c3209210e.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB8TJ886625",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bff02a9f0fa8.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB6TJ870844",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a1fac38c8cd5.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB6TJ813303",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/99a4a0814994.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HBXTJ884326",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b663eac38aaf.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB2TJ886605",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/992e0ae4cf00.html",
       "condition": "new"
     },
     {
@@ -8068,56 +8410,8 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB6TJ886560",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bc836d7905f2.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB3TJ869117",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ca9db54a5dd0.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB3TJ883602",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0d869d9a2c34.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB0TJ883251",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a7a12dd5cdd9.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HBXTJ883905",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9315ad939161.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB5TJ884119",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4de783b53915.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB1TJ875319",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/24336724f64a.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB4TJ872463",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/97196f211e6e.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB0TJ884741",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0eb7b9708d34.html",
       "condition": "new"
     },
     {
@@ -8182,6 +8476,12 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB9TJ852385",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/18cda220183f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB2TJ840935",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bce69d6994b2.html",
       "condition": "new"
@@ -8214,24 +8514,6 @@
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HBXTJ884570",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/047b5e36e77e.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB3TJ844881",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/40efc917a52f.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HBXTJ884777",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/965b36257305.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB5TJ884752",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bc9fc42e945d.html",
       "condition": "new"
     },
     {
@@ -8284,30 +8566,6 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB0TJ888563",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1d01306345ac.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HBXTJ887937",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3f720313ded1.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB5TJ888803",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d8089c453a5e.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB0TJ875005",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b420a110dff2.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB2TJ873420",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/66ee47df3f5e.html",
       "condition": "new"
@@ -8320,56 +8578,8 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB2TJ899421",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a13831b3bc1c.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB2TJ889763",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8059f5702f31.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB7TJ899544",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e55b921015c8.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB5TJ904871",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/84519e1aad5a.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB4TJ904912",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1a0a8fa15ced.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB2TJ887303",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/eb865893ce7c.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB9TJ888383",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bdc824cf64bf.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB4TJ889845",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7bc0534df5cf.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HBXTJ889882",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c386aae2b7ad.html",
       "condition": "new"
     },
     {
@@ -8388,24 +8598,6 @@
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB2TJ902463",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a9739c70984d.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB5TJ893368",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/58b812f8b1f1.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB8TJ894076",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9ade37b3fd88.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB7TJ892741",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/530a6c239494.html",
       "condition": "new"
     },
     {
@@ -8482,44 +8674,8 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB4TJ905199",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6481af1f877c.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB7TJ866544",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/95a1b9c4e7ff.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB4TJ905283",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9d32afdff7bb.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB9TJ904890",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4bfd3b924ecb.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB7TJ905858",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7ee3e5db4570.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB5TJ905440",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ec0041bb154f.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB0TJ905927",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b20cbb8bf9e1.html",
       "condition": "new"
     },
     {
@@ -8536,18 +8692,6 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB1TJ905743",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f37cdddbe7db.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB5TJ906555",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ee7d95f9b936.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB3TJ896639",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/56a3d0583f07.html",
       "condition": "new"
@@ -8559,51 +8703,9 @@
       "condition": "new"
     },
     {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB8TJ904928",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f80fc8d2e586.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB5TJ911349",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/11e9ce9e4992.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB7TJ910655",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0764b04c373c.html",
-      "condition": "new"
-    },
-    {
       "name": "GLA AMG 35 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N5BB8TJ910372",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d9f249a4da5a.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB4TJ911584",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d5625b01a3bb.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA AMG 35 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N5BB5TJ911124",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/68b217b339bc.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB6TJ905592",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a7b69aa2a79f.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB7TJ905469",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5f3cdd0f8854.html",
       "condition": "new"
     },
     {
@@ -8752,6 +8854,12 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB6TJ875705",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1797e7a4e704.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB1TJ905418",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4b25024fdda3.html",
       "condition": "new"
@@ -8776,14 +8884,26 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB7TJ874062",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/150bc5c74f61.html",
+      "vin": "W1N4N4HB3TJ875032",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1656e1a0fd8b.html",
       "condition": "new"
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB3TJ875032",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1656e1a0fd8b.html",
+      "vin": "W1N4N4HB7TJ897079",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f6874c395ded.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB3TJ899668",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/04a9cace0228.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB1TJ895411",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/523a7e5686f3.html",
       "condition": "new"
     },
     {
@@ -8796,6 +8916,252 @@
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB4TJ905171",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6b94b8ea61de.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB0TJ913977",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/86a5d794a691.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HBXTJ889882",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c38bd4cb6e2f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA AMG 35 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N5BB9TJ818851",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3dbc65538b29.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB8TJ894076",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/24f208a1e0cc.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB7TJ899544",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bd17ab6d2ec8.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB6TJ886560",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/37d6e09f2854.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HBXTJ883905",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/62abb07ee2bf.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB9TJ869137",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f9cf751e36de.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB0TJ883251",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/84b1aa7de742.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB3TJ869117",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2559fb938bcc.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HBXTJ887937",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7a0f8841ccfb.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB5TJ893368",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/20a7f2dbad34.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB7TJ892741",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8fe14cfb3f22.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB9TJ904890",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/303cfc024138.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB5TJ911349",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/49e0649550c5.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB0TJ888563",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/16cb122dfc49.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB6TJ905592",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6a5b3c3bf64f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB5TJ904871",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a04a7b83055f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB2TJ889763",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b2067d3898f9.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB4TJ905283",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/76199b3afb11.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB4TJ905199",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/67fd13bdf784.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB7TJ910655",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3b212604314f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB3TJ844881",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b203b5bd50ec.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB5TJ884119",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0d0bfe288557.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HBXTJ895469",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6db9c17ce0c4.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB4TJ911584",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a2552d088175.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA AMG 35 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N5BB5TJ911124",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ae6cd1de028f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB1TJ875319",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8121eb2c30bc.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB8TJ904928",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/34f41bd70f9c.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB5TJ888803",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ac483fcf502c.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB9TJ873799",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1923673f5a76.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HBXTJ884777",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d17f38b1b494.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB0TJ905927",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e0079216efb6.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB8TJ886625",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d524a7282fcb.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB6TJ870844",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8a4f8265173e.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HBXTJ884326",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/47d89ddea071.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB2TJ886605",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/70bc7108dfe9.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB5TJ913716",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7ac646a5db8f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB6TJ813303",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/256181b592ab.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB3TJ883602",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9799d753bf53.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB6TJ866261",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7a7c8c9d7c1c.html",
       "condition": "new"
     },
     {
@@ -8877,6 +9243,12 @@
       "condition": "new"
     },
     {
+      "name": "GLB 250 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1N4M4HB5SW435611",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b1e45ca8e645.html",
+      "condition": "new"
+    },
+    {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB0TW445626",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/21adcf7b4e08.html",
@@ -8938,12 +9310,6 @@
     },
     {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB9TW450517",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2273fa9064dd.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB2TW483066",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8996c680e8aa.html",
       "condition": "new"
@@ -8956,26 +9322,8 @@
     },
     {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB0TW484295",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2a9384fc5ffb.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HBXTW482263",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b76c8238e4bb.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB8TW484562",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e82b6d47a009.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB2TW479888",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/58fd620e32d1.html",
       "condition": "new"
     },
     {
@@ -8986,50 +9334,14 @@
     },
     {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB0TW479601",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c0215b7fbed2.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB9TW479399",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/238abfefab53.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB2TW485075",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/39e749629a44.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB9TW489253",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/100b6f96c52b.html",
       "condition": "new"
     },
     {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB0TW483518",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/12032113b07f.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB0TW483521",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d01cdb718fab.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB3TW490690",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4ad2144c363a.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB4TW492089",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e46e6fed69f3.html",
       "condition": "new"
     },
     {
@@ -9082,6 +9394,12 @@
     },
     {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB0TW479906",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bc635b128e31.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB3TW492858",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6b3d1d76e9e6.html",
       "condition": "new"
@@ -9130,12 +9448,6 @@
     },
     {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB6TW493132",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/eb9db7b7d46d.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB6TW494376",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c352331bd855.html",
       "condition": "new"
@@ -9160,26 +9472,8 @@
     },
     {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB7TW484536",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0d52e11fcf8d.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB7TW487033",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4bf9fe855c1b.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB7TW484777",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/079ef4435f1f.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB7TW485279",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ba2ee690c944.html",
       "condition": "new"
     },
     {
@@ -9340,12 +9634,6 @@
     },
     {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB5TW490402",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4c5168167800.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB5TW482266",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/78abf45fc823.html",
       "condition": "new"
@@ -9354,6 +9642,138 @@
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB0TW493613",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4948be8ba02b.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB7TW487033",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6a3a562f5a16.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB3TW490690",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/35d0100ec026.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB7TW484536",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5b2d525aae9f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB0TW479601",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fa8c9472f157.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB6TW493132",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f4e86e8622c2.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB4TW492089",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f02de4fcd5c9.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB0TW483518",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/298ea69305ec.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB8TW484562",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bfd8d0fc0ed8.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB2TW479888",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/91cba053e5d3.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB9TW479399",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/cdb30a6bf77d.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB0TW484295",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6e55e2eb2b8f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB2TW485075",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c1d999cd1ff6.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB3TW489054",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b37c13bae034.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB1TW494124",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/855ed1e456b6.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB6TW488075",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b922419456e8.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB2TW485870",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6a584997e3a2.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB5TW486320",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9beeb109fa39.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB6TW488044",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/59a85ce0b2a4.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB5TW481568",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ccf56f47b8eb.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB7TW487503",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bc471ec31a24.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB9TW479144",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/dde763129cc6.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HBXTW486586",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/290b08b1a90e.html",
       "condition": "new"
     },
     {
@@ -9372,18 +9792,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB0TF436335",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/de269b7fbeae.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1NKJ4HB7TF486500",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4d7ffe2161ca.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 350e 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM5GBXTF460570",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0a1c5db0e6d6.html",
       "condition": "new"
     },
     {
@@ -9411,12 +9819,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC AMG 43 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM8HB7TF515170",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8f6501369bae.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC AMG GLC 63 SE Coupe2026 Mercedes-Benz",
       "vin": "W1NKJ8AB6TF508486",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/902426f2089a.html",
@@ -9432,12 +9834,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB0TF478102",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a554c11a8305.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB0TF469660",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7d02d39bd25d.html",
       "condition": "new"
     },
     {
@@ -9501,9 +9897,9 @@
       "condition": "new"
     },
     {
-      "name": "GLC AMG 43 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM8HB1TF531879",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/04176ba2aefd.html",
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB2TF521760",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/70d240289339.html",
       "condition": "new"
     },
     {
@@ -9543,12 +9939,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1NKJ4HB8TF467390",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/faa0468142f0.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB8TF544914",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7126740c15ee.html",
@@ -9567,21 +9957,9 @@
       "condition": "new"
     },
     {
-      "name": "GLC AMG 43 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM8HB0TF531226",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/54be29f86e32.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB5TF544028",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b8de215fc451.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 350e 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM5GB1TF527508",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/39f597487003.html",
       "condition": "new"
     },
     {
@@ -9627,12 +10005,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1NKJ4HB7TF480244",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/66753a972918.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HBXTF512661",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1ab9770b8b58.html",
@@ -9670,20 +10042,8 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB1TF523239",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/abbb2dd815b3.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB1TF536881",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/70fd334575dc.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC AMG 43 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1NKJ8HB3TF522089",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9143486ea48f.html",
       "condition": "new"
     },
     {
@@ -9726,12 +10086,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB5TF557054",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1e759448a120.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB2TF540874",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0263f77b6b26.html",
       "condition": "new"
     },
     {
@@ -9808,12 +10162,6 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB8TF520323",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f7b052260512.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB7TF518806",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/abb1ae7de05d.html",
       "condition": "new"
@@ -9828,12 +10176,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB1TF604838",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/42ab0039b832.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB2TF534928",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0bc0e786ec28.html",
       "condition": "new"
     },
     {
@@ -9855,27 +10197,9 @@
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1NKJ4HB1TF610678",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2dc856d25e2c.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB5TF611906",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c616c2f42c4e.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB0TF562744",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1aa632fa8012.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HBXTF609309",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c0a576d362a4.html",
       "condition": "new"
     },
     {
@@ -9909,24 +10233,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB8TF522136",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6d02bec72ecc.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB7TF583607",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/50fc0967bb69.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB4TF598601",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/eaf0c054f98c.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC AMG 43 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM8HB6TF614269",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5ad1d2af4660.html",
@@ -9936,12 +10242,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB0TF600134",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9c0f60d7e4d2.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB0TF578555",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d9d932e3af5f.html",
       "condition": "new"
     },
     {
@@ -9975,33 +10275,9 @@
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB9TF519214",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d8c148cb2443.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1NKJ4HB3TF602114",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7991bac06126.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB0TF601123",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1a8264d2e8ab.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB2TF533570",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d113629e2ef8.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 350e 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM5GB2TF533396",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9fa97ed59250.html",
       "condition": "new"
     },
     {
@@ -10018,20 +10294,8 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB0TF518307",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/78d0eb26c9be.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC AMG 43 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM8HB3TF591257",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/972b30ec1432.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB8TF625797",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6b1d3d3b37e4.html",
+      "vin": "W1NKM4HB4TF580051",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fa8e38ee05d5.html",
       "condition": "new"
     },
     {
@@ -10044,12 +10308,6 @@
       "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1NKJ4HB8TF530066",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bcda7c7f6fe4.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HBXTF620777",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/582bbbc6cb19.html",
       "condition": "new"
     },
     {
@@ -10090,12 +10348,6 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HBXTF598389",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6143dd79926f.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HBXTF615093",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9da9cbfd6ebc.html",
       "condition": "new"
@@ -10114,32 +10366,8 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB3TF628168",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1272dcb1c74b.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HBXTF614459",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/cafee7b3b32f.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB7TF579735",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/67161d44fd5e.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB5TF624350",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/146f950c2016.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HBXTF609410",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3786066804d4.html",
       "condition": "new"
     },
     {
@@ -10180,18 +10408,6 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB0TF590799",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e40c9242e54d.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB0TF569709",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b27c4f1d057f.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB9TF539883",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/897ac40a412e.html",
       "condition": "new"
@@ -10204,32 +10420,14 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB7TF535752",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8a876b1c17d7.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB4TF520559",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6b7ef7d2d716.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 350e 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM5GBXTF593300",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/53e416033866.html",
       "condition": "new"
     },
     {
       "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1NKJ4HB8TF561589",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/34c4c0613553.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1NKJ4HB6TF564474",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/95c278ef325b.html",
       "condition": "new"
     },
     {
@@ -10246,12 +10444,6 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB3TF598816",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5568f455b617.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HBXTF628748",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0ebf8113d846.html",
       "condition": "new"
@@ -10260,12 +10452,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB6TF617617",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8f55a4de2cb8.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB7TF619215",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/34dd54b2783b.html",
       "condition": "new"
     },
     {
@@ -10461,12 +10647,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB4TF623819",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5232203f189a.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC AMG 43 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM8HB5TF626767",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/34258bd490af.html",
@@ -10545,12 +10725,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 350e 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM5GB6TF460047",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/cc2302901a35.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB9TF630023",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bb61ae3f5e80.html",
@@ -10606,20 +10780,8 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB7TF644387",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/373634efbafb.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB1TF634714",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/eebd8de28338.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB2TF633183",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/29c89a85bac3.html",
       "condition": "new"
     },
     {
@@ -10638,18 +10800,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB4TF550368",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/67fcce4bafcf.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB6TF629203",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7b9a34194ca6.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC AMG 43 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM8HB5TF534090",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0fa0a22185f0.html",
       "condition": "new"
     },
     {
@@ -10828,12 +10978,6 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB1TF617864",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f4e487ccdd3f.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB7TF474631",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6262e7764f94.html",
       "condition": "new"
@@ -10900,12 +11044,6 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB2TF631627",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e7f67727ae72.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB8TF580814",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/935b8d9bf6cf.html",
       "condition": "new"
@@ -10918,26 +11056,122 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB8TF484942",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5de70aa73aea.html",
+      "vin": "W1NKM4HB7TF590282",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fbc82bac8acc.html",
       "condition": "new"
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB2TF522956",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/02ce150e0de0.html",
+      "vin": "W1NKM4HB4TF632858",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/35f01ee5003b.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC AMG 43 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM8HB7TF515170",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f9c0b8361d79.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC AMG 43 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM8HB0TF531226",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6b2f6ca322c4.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB0TF578555",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e6ab46c1bbf3.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1NKJ4HB7TF486500",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e1b543fbf5e0.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB4TF623819",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f9ef7ada0da5.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB2TF533570",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/72a0c57fc73f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB5TF611906",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c03424b1ff0c.html",
       "condition": "new"
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB1TF628041",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ce1acdaa82d2.html",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4669fb363bac.html",
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1NKJ4HB6TF530678",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3e3d51c9e72b.html",
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB8TF484942",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/69a8fedc7e14.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB7TF579735",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/64425bdfd423.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB5TF624350",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f5fa5e70d42a.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB7TF619215",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/458741e98a8b.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB8TF625797",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8dd57bf6a8bc.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB0TF601123",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/762284a685d5.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HBXTF598389",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/646a9f1c2446.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB0TF518307",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/78b4821e553a.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB6TF581444",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/418105d293a0.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB8TF522136",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/90ec2b31fce2.html",
       "condition": "new"
     },
     {
@@ -11019,12 +11253,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM5GB4VF646365",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6b4ce7e9de85.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB7VF653657",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c10e9436065c.html",
@@ -11045,7 +11273,7 @@
     {
       "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM5GB6VF654516",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f64bfaff14de.html",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2607c9548e48.html",
       "condition": "new"
     },
     {
@@ -11109,12 +11337,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM5GB5VF646018",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/48ed1910210a.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB6VF645193",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/37f2106a19e6.html",
@@ -11171,7 +11393,7 @@
     {
       "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM5GB8VF655019",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e959f4178e29.html",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/02322d679893.html",
       "condition": "new"
     },
     {
@@ -11187,23 +11409,21 @@
       "condition": "new"
     },
     {
-      "name": "New Vehicles",
-      "vin": "W1NKJ4HB9VF655726",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d5fcdb1a4691.html",
-      "condition": "new",
-      "price": 78760.0,
-      "price_currency": "CAD"
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB4VF654913",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/76a134c02ffe.html",
+      "condition": "new"
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB9VF656866",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/cc9b7e682d99.html",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a13db2044264.html",
       "condition": "new"
     },
     {
       "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM5GB9VF655160",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c5f1084155a6.html",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b4d43386b68c.html",
       "condition": "new"
     },
     {
@@ -11215,19 +11435,13 @@
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB5VF654855",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2115dff95d3d.html",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6bd39fb3b487.html",
       "condition": "new"
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB7VF654985",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/474ba61fdfb5.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM5GB8VF648474",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9487630720db.html",
       "condition": "new"
     },
     {
@@ -11246,6 +11460,12 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB0VF660546",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/64f2df6e69bf.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB4VF659537",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e7f3bd26e00e.html",
       "condition": "new"
     },
     {
@@ -11270,12 +11490,6 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB3VF651663",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e9b4d0589028.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM4HB7VF660673",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/52381686b7d9.html",
       "condition": "new"
     },
     {
@@ -11324,6 +11538,12 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB7VF660219",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/59dc1609af3e.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB7VF663047",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fcc0ee67b7fd.html",
       "condition": "new"
     },
     {
@@ -11390,12 +11610,6 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB7VF661256",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/451fb41f8b83.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM4HB2VF659429",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d51ce90fa48f.html",
       "condition": "new"
     },
     {
@@ -11525,12 +11739,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
-      "vin": "W1NKJ4HB9VF655726",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/341ba3e80b37.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB2VF672097",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/201f67e7e2f4.html",
@@ -11597,6 +11805,12 @@
       "condition": "new"
     },
     {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB7VF670466",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6be8a134d8d1.html",
+      "condition": "new"
+    },
+    {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB6VF664598",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7e4efe3ec048.html",
@@ -11642,18 +11856,6 @@
       "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
       "vin": "W1NKJ4HB7VF645793",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e21aba2f43d9.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
-      "vin": "W1NKJ4HB9VF673773",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6ad741392de4.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM4HB0VF660739",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/54676dd4c1d6.html",
       "condition": "new"
     },
     {
@@ -11717,21 +11919,9 @@
       "condition": "new"
     },
     {
-      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM5GB6VF664561",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0452dd4ad14b.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB1VF666274",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4f5f3090108b.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM4HB9VF666149",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a1892ae73a49.html",
       "condition": "new"
     },
     {
@@ -11759,12 +11949,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM4HB4VF665961",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c48654f28455.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
       "vin": "W1NKJ4HBXVF669571",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/24e592806a98.html",
@@ -11789,9 +11973,9 @@
       "condition": "new"
     },
     {
-      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM5GB2VF665383",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d989e4d55ed1.html",
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB1VF665609",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/556cfe04a4ca.html",
       "condition": "new"
     },
     {
@@ -11814,6 +11998,30 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB1VF661804",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3ce03b3498d2.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB8VF658494",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4c0335624017.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HBXVF662160",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fabd8536587c.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB0VF661342",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/15fb0a1748a8.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB5VF647436",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3e04538475d8.html",
       "condition": "new"
@@ -11822,6 +12030,12 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB2VF655428",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4e3649c0f042.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB3VF648438",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e559fab94191.html",
       "condition": "new"
     },
     {
@@ -11838,6 +12052,12 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB5VF665807",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/10fbc0a24e0e.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB0VF655699",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ea38eac0cbd8.html",
       "condition": "new"
@@ -11849,15 +12069,27 @@
       "condition": "new"
     },
     {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB4VF664588",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2bede567a326.html",
+      "condition": "new"
+    },
+    {
       "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
       "vin": "W1NKJ4HB9VF648078",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/76f97b31f422.html",
       "condition": "new"
     },
     {
-      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM5GBXVF668323",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0db7368f345f.html",
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB0VF677971",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a8ea37ae3196.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HBXVF670842",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7c9d44183310.html",
       "condition": "new"
     },
     {
@@ -11873,12 +12105,318 @@
       "condition": "new"
     },
     {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB9VF667809",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f04b3691583f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB9VF667611",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/cf298d71ac3d.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB7VF668992",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/24606bd00eb4.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB4VF667329",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/022270c9eb37.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB0VF675234",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/99efb5122d90.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB9VF669116",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/aeec5a2fd041.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB2VF672729",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1c236e953b00.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB3VF669086",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4a6a9dfeac7c.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB2VF660435",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3fce149828eb.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB1VF667689",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/eeaef8762a5d.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB4VF671856",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fdf953a5f856.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB2VF674559",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/486fca44a813.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB9VF652096",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ca484d23d533.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB0VF670664",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c10204a8c1c8.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB9VF650873",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a19de7b0e306.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB1VF664452",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bed88b7a9370.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB9VF676356",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5cf0cd8b246e.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB8VF676428",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/85a050a374b5.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB3VF667255",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6f0af4230f10.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB9VF666371",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ec86bb9aa18d.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB4VF667913",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5f96d4a2ecd8.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 400 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1N2M3CB7VF020562",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/14f17e2b4f7d.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB9VF673263",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/18e93d6e2e4b.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB1VF667982",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8f979b72eeca.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 400 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1N2M3CB6VF034159",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9b90bffeb182.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB5VF667775",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c7a674df2ae9.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB4VF675695",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d43d00499e35.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB0VF658604",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c82f243f1c07.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB7VF676341",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/dbb87943323c.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB9VF666149",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/be9ec5d21ba7.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB4VF665961",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4261b7de869c.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB8VF670970",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/43d662d7c6cf.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB9VF665056",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/61b6feb176fd.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB9VF675112",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/36bab7dc1836.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB8VF648474",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e6173eeafb62.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB5VF675432",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2f20027b8cdd.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB5VF681344",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0131a772fcd6.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB6VF672264",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b6561c18961a.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB1VF685205",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c58462bd83d5.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB7VF675139",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/96e40a954f7e.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB4VF669307",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b8921bb4fcd8.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB6VF688223",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8b480156b3b7.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB5VF683823",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/71a6dafdb8a8.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB2VF686056",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5d78a064d291.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB5VF685998",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/85cd0812525a.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE Coupe 450 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "4JGFD6FB9VB752314",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c1c177a79f05.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE Coupe 450 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "4JGFD6FB1VB752159",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/00ebef126753.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE Coupe 450 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "4JGFD6FB7VB752067",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c847b5af3d18.html",
+      "condition": "new"
+    },
+    {
       "name": "GLE Coupe 450 4MATIC Coupe2027 Mercedes-Benz",
       "vin": "4JGFD6FBXVB757974",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0e34be5f7d35.html",
       "condition": "new",
       "price": 126260.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "GLE Coupe 450 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "4JGFD6FB5VB752147",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8a8cb903f0e7.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE Coupe 450 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "4JGFD6FB2VB752137",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5d137ade6548.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE Coupe 450 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "4JGFD6FB0VB752086",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/dfe5e89248d2.html",
+      "condition": "new"
     },
     {
       "name": "GLE 450 4MATIC SUV2025 Mercedes-Benz",
@@ -12025,27 +12563,9 @@
       "condition": "new"
     },
     {
-      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB5KB2TB572966",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ba2df094005e.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE AMG 53 4MATIC+ SUV2026 Mercedes-Benz",
-      "vin": "4JGFB6BB0TB578366",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4212724e5cb2.html",
-      "condition": "new"
-    },
-    {
       "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
       "vin": "4JGFD6BB3TB573589",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f28c727527f0.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
-      "vin": "4JGFD6BB8TB572454",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/060171ec9169.html",
       "condition": "new"
     },
     {
@@ -12088,12 +12608,6 @@
       "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB5KB6TB578687",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9f3902412774.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 450 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "4JGFD5KB6TB588825",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b751b10b2f4e.html",
       "condition": "new"
     },
     {
@@ -12163,12 +12677,6 @@
       "condition": "new"
     },
     {
-      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB5KB1TB595042",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4ac2d6b9ea51.html",
-      "condition": "new"
-    },
-    {
       "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
       "vin": "4JGFD6BB4TB513949",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1995beb20618.html",
@@ -12208,12 +12716,6 @@
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB7TB591467",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/11e459084620.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FB7TB582834",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2c364c7ae02a.html",
       "condition": "new"
     },
     {
@@ -12433,12 +12935,6 @@
       "condition": "new"
     },
     {
-      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB5KBXTB632511",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d9958da5be2d.html",
-      "condition": "new"
-    },
-    {
       "name": "GLE AMG 53 4MATIC+ SUV2026 Mercedes-Benz",
       "vin": "4JGFB6BB7TB632679",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/adb831c20cc1.html",
@@ -12476,12 +12972,6 @@
     },
     {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FB3TB551600",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/aebba28183fc.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB1TB616895",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0309528eb6fb.html",
       "condition": "new"
@@ -12500,12 +12990,6 @@
     },
     {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY4TP884694",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1bc3a1f63e35.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB2TB613004",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bef277e05a8e.html",
       "condition": "new"
@@ -12520,12 +13004,6 @@
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB2TB638131",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/92e5a2b9bffa.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FB0TB630027",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d73ebe994c67.html",
       "condition": "new"
     },
     {
@@ -12548,32 +13026,14 @@
     },
     {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FB8TB630034",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c69ca615115c.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB6TB645406",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ebceb62a53ac.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB5KB3TB648503",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/92dcfee814ce.html",
       "condition": "new"
     },
     {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FBXTB648518",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b242ba39a994.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB5KB0TB648488",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/427e1c58f025.html",
       "condition": "new"
     },
     {
@@ -12592,12 +13052,6 @@
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB0TB654098",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ca0f640238f7.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FB9TB580776",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0b2831c1c264.html",
       "condition": "new"
     },
     {
@@ -12628,12 +13082,6 @@
       "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
       "vin": "4JGFD6BB5TB659471",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bdb92aaaf935.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB5KB8TB532374",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/95f300d524b2.html",
       "condition": "new"
     },
     {
@@ -12733,12 +13181,6 @@
       "condition": "new"
     },
     {
-      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB5KB1TB672606",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3a0785dc61c1.html",
-      "condition": "new"
-    },
-    {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB7TB675417",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f784c907ed76.html",
@@ -12748,12 +13190,6 @@
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB8TB601147",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9a21e82d16e7.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FE8TB678854",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6066bf003a6f.html",
       "condition": "new"
     },
     {
@@ -12794,18 +13230,6 @@
     },
     {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FB1TB678829",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e56f055f8e8c.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FE6TB672552",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c1aa982c2229.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB5TB612994",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/20eafe2be4f7.html",
       "condition": "new"
@@ -12829,12 +13253,6 @@
       "condition": "new"
     },
     {
-      "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
-      "vin": "4JGFD6BB5TB680224",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/72bdb7703ec2.html",
-      "condition": "new"
-    },
-    {
       "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB5KB2TB678754",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/742645b04790.html",
@@ -12850,12 +13268,6 @@
       "name": "GLE 450 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "4JGFD5KB8TB678803",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/cef830feabf9.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB5KE7TB689971",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ae7e04d3ecd7.html",
       "condition": "new"
     },
     {
@@ -12925,12 +13337,6 @@
       "condition": "new"
     },
     {
-      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB5KE4TB678233",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a8856c1e6093.html",
-      "condition": "new"
-    },
-    {
       "name": "GLE AMG 53 4MATIC+ SUV2026 Mercedes-Benz",
       "vin": "4JGFB6BB6TB692713",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ee1848119b8e.html",
@@ -12943,21 +13349,9 @@
       "condition": "new"
     },
     {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FB7TB695022",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/922dce17dba8.html",
-      "condition": "new"
-    },
-    {
       "name": "GLE 450 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "4JGFD5KB3TB694973",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/85be498c47f7.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB5KB5TB596338",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1bc2c4a2599d.html",
       "condition": "new"
     },
     {
@@ -12976,12 +13370,6 @@
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FE7TB678361",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/24022401c6ce.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE AMG 53 4MATIC+ SUV2026 Mercedes-Benz",
-      "vin": "4JGFB6BB9TB693385",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4abcbd8629ed.html",
       "condition": "new"
     },
     {
@@ -13006,18 +13394,6 @@
       "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB5KB0TB695052",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f3e7f68f89ae.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FE5TB678245",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/56de85dd4e97.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE AMG 53 4MATIC+ SUV2026 Mercedes-Benz",
-      "vin": "4JGFB6BB6TB699287",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2a575e4e59e1.html",
       "condition": "new"
     },
     {
@@ -13096,6 +13472,12 @@
       "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB5KBXTB699013",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/77e98b182926.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB2TB695011",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4bf3801e8ffb.html",
       "condition": "new"
     },
     {
@@ -13286,12 +13668,6 @@
     },
     {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FB4TB720684",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/87da582d16c6.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB6TB721884",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/66c8f20c9d5a.html",
       "condition": "new"
@@ -13300,12 +13676,6 @@
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB5TB720872",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9e9b832b77a1.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FB2TB720215",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9ed468d88921.html",
       "condition": "new"
     },
     {
@@ -13393,18 +13763,6 @@
       "condition": "new"
     },
     {
-      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB5KB4TB576209",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/14d8776012e5.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE 450e 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4GBXTB558459",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fd897952a4d7.html",
-      "condition": "new"
-    },
-    {
       "name": "GLE 450e 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4GB6TB592320",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/70da2623ce96.html",
@@ -13483,12 +13841,6 @@
       "condition": "new"
     },
     {
-      "name": "GLE 450e 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4GB9TB566570",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f91c919fba79.html",
-      "condition": "new"
-    },
-    {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB4TB659076",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/817ce059fcc7.html",
@@ -13562,6 +13914,12 @@
     },
     {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FE4TB659122",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3214014b021b.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB6TB601342",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3b027ec2f7cf.html",
       "condition": "new"
@@ -13579,9 +13937,483 @@
       "condition": "new"
     },
     {
+      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KB0TB672659",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e550999f9771.html",
+      "condition": "new"
+    },
+    {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB2TB600205",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/55e106267d39.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB8TB630034",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f51a63c4270d.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FE8TB678854",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f4bf05ef9ee8.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KB3TB648503",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/321d1ce93193.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KB0TB648488",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e3b0a7b3168c.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB4TB720684",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1e1ea2e49262.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB2TB720215",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1dc8bf8ae318.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KE7TB689971",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/46bd8956c463.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KE4TB678233",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/24513815f0d8.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB9VB744025",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d8689391dae2.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB0VB748223",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fa5c895a4f6e.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB0VB744155",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5426344dd2f2.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB5VB744040",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6a7ba0491f7f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FBXVB752893",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1a4c3eee5ca3.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB5VB748220",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fbf08842196d.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FBXVB743966",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/52d9df1847d2.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB6VB748226",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6eecd5f612b3.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FE8VB748240",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5347d25c6297.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB5VB743910",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ebbbd4dbcdea.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB0VB752868",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1eb18450a1f4.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB5VB743924",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/af536217e1c1.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB0VB752904",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d57dbf7d8404.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB9VB748298",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bd767278e4f5.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB9VB752917",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ac7343a323a0.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB1VB748246",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c649884906fa.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB4VB748225",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b4a7523258a1.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FE3VB743981",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0f45c65e7ac1.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB7VB743939",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a64522836fcb.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB4VB744126",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f35a62b58573.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB3VB748264",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b0112ba13b89.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB3VB748295",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/af0e0651705c.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB0VB748237",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a7cf0779c434.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB4VB748239",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/a0d72beb6638.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB2VB744111",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3f51ebd67c53.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB7VB748221",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b8ac3606a3e3.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB8VB748292",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c90512457bb4.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB8VB748230",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/81800e03cfc3.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FE2VB744183",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/de28e14a95ba.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB6VB748288",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/071c164903e0.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB7VB748235",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/6f113a852154.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB5VB748279",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8e273448721c.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB0VB744169",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/97c8c8545f80.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FBXVB743997",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b9bb71de2094.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FE2VB748251",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/62b54765ef4a.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB5VB748217",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4083cf091c1e.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FBXVB743952",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ccd85159fd75.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB8VB752858",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9aba153f02bb.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB7VB748249",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c6f515ede1f0.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB4VB748256",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/eae5740b0f08.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB9VB748222",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ca1553be9734.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB8VB748244",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0bdfbb1d70c5.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FE3VB748212",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/48e931eb966d.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB9VB766426",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/74bcf32b776f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB3VB748278",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/90a96dfd8fb0.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB8VB766367",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1081da65ae3a.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB5VB762745",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/96dbf6b41263.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB7VB766361",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2e23078a054f.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FBXVB748228",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/69baa6da4ab2.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB2VB762427",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f98e8c8b93b2.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB6VB762298",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f8a6bcec8cc0.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB8VB762550",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b5ffeb753f5e.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB4VB762817",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/42dc9b87dd23.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB8VB762917",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2593fc22e251.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB3VB748259",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/900ed5adab5a.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB9VB762764",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/22ed84c6deba.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB7VB762510",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3cd447e9cce5.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB7VB762541",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1bb58db732f9.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB1VB748232",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/81d5b048b785.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB2VB748224",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b979e81f3784.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB2VB762900",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/78e1c60585c7.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB7VB767638",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7c89f31704fd.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB5VB766374",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9b6fc056ccea.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB1VB752846",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/16827cc10e41.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB4VB762476",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1b46a24da6f4.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB7VB762908",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/7809d22bdd20.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB6VB767453",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/932e216a400d.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB7VB767381",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f930eca5c2fe.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB0VB767514",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/19fedf48927c.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB7AB8VB767390",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b0665b691dcd.html",
       "condition": "new"
     },
     {
@@ -13688,12 +14520,6 @@
     },
     {
       "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFF5KE8TB593285",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4accf900f979.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFF5KEXTB593272",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/875a2e70bbdb.html",
       "condition": "new"
@@ -13702,12 +14528,6 @@
       "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFF5KE5TB593258",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/43c7c2c763b9.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFF5KE1TB588056",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c9320ed8a2ba.html",
       "condition": "new"
     },
     {
@@ -13724,20 +14544,8 @@
     },
     {
       "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFF5KE9TB612961",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/89ecfa96a4f0.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFF5KE5TB635301",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/03acdb41941a.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFF5KE8TB648835",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/052433bb95ae.html",
       "condition": "new"
     },
     {
@@ -13783,6 +14591,18 @@
       "condition": "new"
     },
     {
+      "name": "GLS 450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFF5KE8TB624521",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/66a79ac46a2b.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS AMG 63 4MATIC+ SUV2026 Mercedes-Benz",
+      "vin": "4JGFF8KE9TB546008",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/dc2cb8920f84.html",
+      "condition": "new"
+    },
+    {
       "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
       "vin": "4JGFF6FE3VB743189",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/b29300153965.html",
@@ -13798,6 +14618,12 @@
       "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
       "vin": "4JGFF6FE4VB743217",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/81a2ccf452fa.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FE5VB748572",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/832354b9ee09.html",
       "condition": "new"
     },
     {
@@ -13826,8 +14652,68 @@
     },
     {
       "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FE9VB748509",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/342d212f3943.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
       "vin": "4JGFF6FE9VB752687",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3d4c60b416ca.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FE8VB748503",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/77c2a139a2f0.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FEXVB748549",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/460249ead96a.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FE1VB752800",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/77f01ddb8e30.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FE7VB743244",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9537d67c2f21.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FEXVB752634",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c2462a234177.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FE7VB752655",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5516da93e7b7.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FEXVB748566",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bbb2ef3a9886.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FE9VB748512",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c96d552cdebf.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FE3VB748506",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/917102411f26.html",
       "condition": "new"
     },
     {
@@ -13892,20 +14778,20 @@
     },
     {
       "name": "S-Class 580 4MATIC2027 Mercedes-Benz",
-      "vin": "W1K6G7HBXVA387636",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/679a04d757fb.html",
-      "condition": "new"
-    },
-    {
-      "name": "S-Class 580 4MATIC2027 Mercedes-Benz",
       "vin": "W1K6G7HB5VA394784",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/816391ccb9c5.html",
       "condition": "new"
     },
     {
       "name": "S-Class 580 4MATIC2027 Mercedes-Benz",
-      "vin": "W1K6G7HB9VA387031",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/19cb98b3774b.html",
+      "vin": "W1K6G7HBXVA387636",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/23aaffca1fd9.html",
+      "condition": "new"
+    },
+    {
+      "name": "S-Class 580 4MATIC2027 Mercedes-Benz",
+      "vin": "W1K6G7HB9VA387546",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e79d5739f9ed.html",
       "condition": "new"
     },
     {
@@ -13930,6 +14816,12 @@
       "name": "SL AMG 43 Roadster2026 Mercedes-Benz",
       "vin": "W1KVK5AB2TF026250",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/69977f20019a.html",
+      "condition": "new"
+    },
+    {
+      "name": "SL AMG 63 4MATIC+ Roadster2027 Mercedes-Benz",
+      "vin": "W1KVK8BB4VF029797",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/419581ff8450.html",
       "condition": "new"
     },
     {
@@ -13969,27 +14861,9 @@
       "condition": "new"
     },
     {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2025 Mercedes-Benz",
-      "vin": "W1Y4KBHY6ST220905",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/588477c701c7.html",
-      "condition": "new"
-    },
-    {
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2025 Mercedes-Benz",
       "vin": "W1Y4KCHY8ST219311",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/619ca7af35bd.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2025 Mercedes-Benz",
-      "vin": "W1W4KBHY3SP817527",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d25b96debda6.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2025 Mercedes-Benz",
-      "vin": "W1W4KBHY9SP789166",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/09321bd9e509.html",
       "condition": "new"
     },
     {
@@ -14035,24 +14909,6 @@
       "condition": "new"
     },
     {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY4TP868849",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f95297bca948.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY5TP867502",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/002dd94ddb2e.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase Standard Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY5TP870691",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/63d55a8d5925.html",
-      "condition": "new"
-    },
-    {
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KCHY1TP873383",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/451a5800c748.html",
@@ -14086,18 +14942,6 @@
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY3TP871998",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/261b7721aaa0.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KCHY5TP874293",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3c2926af9884.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY1TP872874",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8392461a4aaf.html",
       "condition": "new"
     },
     {
@@ -14158,12 +15002,6 @@
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY0TP879458",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c1410b2b831d.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY0TP876849",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/928e29e1356b.html",
       "condition": "new"
     },
     {
@@ -14236,18 +15074,6 @@
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY3TP881575",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c92be56f318f.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY8TP885587",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3e5d1f1e024a.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY5TP879956",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d45fe994f2ee.html",
       "condition": "new"
     },
     {
@@ -14378,12 +15204,6 @@
     },
     {
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY5TP881142",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ccef5ea641be.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY7TP880719",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f79f2839f9b8.html",
       "condition": "new"
@@ -14497,12 +15317,6 @@
       "condition": "new"
     },
     {
-      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KCHY3TP903029",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/2d3531efc1da.html",
-      "condition": "new"
-    },
-    {
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY5TP903463",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/1787d68eb16b.html",
@@ -14584,12 +15398,6 @@
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY2TP884693",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d48f829102ec.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY1TP886015",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/bf8931c54fdb.html",
       "condition": "new"
     },
     {
@@ -14732,12 +15540,6 @@
     },
     {
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KCHY4TP904870",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9f34fa143474.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KCHY8TP905729",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0b111d73c689.html",
       "condition": "new"
@@ -14806,12 +15608,6 @@
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY5TP903995",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/eb22724d3b92.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY6TP908588",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/df65aa5c1994.html",
       "condition": "new"
     },
     {
@@ -15206,12 +16002,6 @@
     },
     {
       "name": "Sprinter 2500 144 Wheelbase Standard Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY8TP927997",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c04492588896.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase Standard Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY2TP926800",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/84446b7d70e8.html",
       "condition": "new"
@@ -15220,12 +16010,6 @@
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY2TP930572",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3d87a5b8b098.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1W4KCHY5TP922559",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/438c3b84720a.html",
       "condition": "new"
     },
     {
@@ -15349,12 +16133,6 @@
       "condition": "new"
     },
     {
-      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KCHY2TP939312",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/f414a7d20565.html",
-      "condition": "new"
-    },
-    {
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY2TP938610",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/e77c6fbed066.html",
@@ -15391,21 +16169,9 @@
       "condition": "new"
     },
     {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY3TP941788",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/93b601095904.html",
-      "condition": "new"
-    },
-    {
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KCHY9TP942062",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/4db9aa977e9a.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase Standard Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHY5TP939301",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/ba2e9396df33.html",
       "condition": "new"
     },
     {
@@ -15451,12 +16217,6 @@
       "condition": "new"
     },
     {
-      "name": "Sprinter 2500 170 Wheelbase High Roof AWD2026 Mercedes-Benz",
-      "vin": "W1Y4NCVY8TP939309",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/109fad02c7e9.html",
-      "condition": "new"
-    },
-    {
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY3TP944626",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/85444a0a7677.html",
@@ -15478,12 +16238,6 @@
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4NCHY8TP953304",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/49b7e3918e2b.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KCHY9TP946368",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/8bd82f8db3a0.html",
       "condition": "new"
     },
     {
@@ -15745,15 +16499,75 @@
       "condition": "new"
     },
     {
+      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHY1TP943068",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/d2644a5bfdf8.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHY3TP950085",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/dd4e6df33baa.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KCHYXTP941535",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/9317969f2585.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KCHY6TP941807",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/96a12e9fd372.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KCHY3TP951145",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/480b3dc3034d.html",
+      "condition": "new"
+    },
+    {
       "name": "Sprinter 2500 170 Wheelbase High Roof AWD2026 Mercedes-Benz",
       "vin": "W1Y4NCVY3TP958043",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/5327052979e9.html",
       "condition": "new"
     },
     {
-      "name": "Sprinter 3500XD 144 Wheelbase High Roof AWD2025 Mercedes-Benz",
-      "vin": "W1Y8NB6Y9SP757238",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/80ef21eae85f.html",
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KCHY5TP949655",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/42bebf32a27d.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHY0TP947368",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/fda3c52d3dce.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KCHY8TP935622",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/35f52295eff8.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1W4KCHY8TP962117",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/0a4f36a5a133.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Z4NGHY6TT631237",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/3c83ee327385.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 144 Wheelbase Standard Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHY5TP870691",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/57aaf4b95136.html",
       "condition": "new"
     },
     {
@@ -15769,9 +16583,9 @@
       "condition": "new"
     },
     {
-      "name": "Sprinter 4500 170 Wheelbase RWD2025 Mercedes-Benz",
-      "vin": "W1X9N33Y8SN351854",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/babb5df5f328.html",
+      "name": "Sprinter 3500XD 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y8NC3Y9TP949688",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/new/c95edbc9db39.html",
       "condition": "new"
     },
     {
