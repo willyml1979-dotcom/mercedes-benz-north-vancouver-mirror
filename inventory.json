@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz North Vancouver",
-  "generated_at": "2026-11-18T14:34:45",
-  "vehicle_count": 2799,
+  "generated_at": "2026-11-18T20:45:08",
+  "vehicle_count": 2803,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -210,6 +210,12 @@
       "condition": "used"
     },
     {
+      "name": "RDX SH-AWD A-Spec2023 Acura",
+      "vin": "5J8TC2H61PL804181",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/9a5b356989cf.html",
+      "condition": "used"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8TC2H69RL802617",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/f74528a782ac.html",
@@ -275,6 +281,12 @@
       "name": "TLX SH-AWD A-Spec2022 Acura",
       "vin": "19UUB6F54NA800434",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/b7a49c2c0053.html",
+      "condition": "used"
+    },
+    {
+      "name": "TLX A-Spec SH-AWD2023 Acura",
+      "vin": "19UUB6F57PA800382",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/4a4176cd2c34.html",
       "condition": "used"
     },
     {
@@ -3089,6 +3101,12 @@
       "condition": "used"
     },
     {
+      "name": "C300 4MATIC Sedan2023 Mercedes-Benz",
+      "vin": "W1KAF4HB6PR086622",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/7eaa708abfc9.html",
+      "condition": "used"
+    },
+    {
       "name": "C300 4MATIC2024 Mercedes-Benz",
       "vin": "W1KAF4HB8RR201059",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/d9e677421c52.html",
@@ -4674,6 +4692,12 @@
       "name": "Rogue SV AWD CVT (2)2022 Nissan",
       "vin": "JN8BT3BBXNW330818",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/3b5860768f1a.html",
+      "condition": "used"
+    },
+    {
+      "name": "Rogue S AWD CVT2022 Nissan",
+      "vin": "5N1AT3AB3NC712839",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-north-vancouver-mirror/used/ffd951688c87.html",
       "condition": "used"
     },
     {
